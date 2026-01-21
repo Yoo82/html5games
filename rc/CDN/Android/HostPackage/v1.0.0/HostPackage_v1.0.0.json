@@ -10,7 +10,7 @@
     "BuildPipeline": "CustomBuildPipeline",
     "PackageName": "HostPackage",
     "PackageVersion": "v1.0.0",
-    "PackageNote": "1/21/2026 4:23:31 PM",
+    "PackageNote": "1/21/2026 5:37:41 PM",
     "AssetList": [
         {
             "Address": "BoosterOfferNOZ",
@@ -3669,6 +3669,16 @@
                 266,
                 273,
                 276
+            ]
+        },
+        {
+            "Address": "NewShaderVariants",
+            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/NewShaderVariants.shadervariants",
+            "AssetGUID": "5d20f8d9533d4174e8ba904d26f1bf31",
+            "AssetTags": [],
+            "BundleID": 276,
+            "DependBundleIDs": [
+                270
             ]
         }
     ],
@@ -11151,10 +11161,10 @@
         },
         {
             "BundleName": "hostpackage_unityshaders.bundle",
-            "UnityCRC": 3545011248,
-            "FileHash": "4ef87208ef6d81384ddab095649568cc",
-            "FileCRC": 652002597,
-            "FileSize": 1563994,
+            "UnityCRC": 600854830,
+            "FileHash": "68d012824e103087550785edce89a8c0",
+            "FileCRC": 225345965,
+            "FileSize": 1620021,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []

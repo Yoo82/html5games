@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "6000.0.64f1",
-        "BuildDate": "1/21/2026 4:24:30 PM",
-        "BuildSeconds": 57,
+        "BuildDate": "1/21/2026 5:38:53 PM",
+        "BuildSeconds": 70,
         "BuildTarget": 13,
         "BuildPipeline": "CustomBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "HostPackage",
         "BuildPackageVersion": "v1.0.0",
-        "BuildPackageNote": "1/21/2026 4:23:31 PM",
+        "BuildPackageNote": "1/21/2026 5:37:41 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -18,7 +18,7 @@
         "AutoCollectShaders": true,
         "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
         "ClearBuildCacheFiles": true,
-        "UseAssetDependencyDB": true,
+        "UseAssetDependencyDB": false,
         "EnableSharePackRule": true,
         "SingleReferencedPackAlone": true,
         "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "hostpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 2542,
-        "MainAssetTotalCount": 132,
+        "AssetFileTotalCount": 2543,
+        "MainAssetTotalCount": 133,
         "AllBundleTotalCount": 277,
-        "AllBundleTotalSize": 118916618,
+        "AllBundleTotalSize": 118972645,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -47528,6 +47528,39 @@
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
                 "hostpackage_unityshaders.bundle"
             ]
+        },
+        {
+            "Address": "NewShaderVariants",
+            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/NewShaderVariants.shadervariants",
+            "AssetGUID": "5d20f8d9533d4174e8ba904d26f1bf31",
+            "AssetTags": [],
+            "MainBundleName": "hostpackage_unityshaders.bundle",
+            "MainBundleSize": 1620021,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Gradient_greyscale.PNG",
+                    "AssetGUID": "789405d2635550c4c9df257b8e484c62"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/GradientCenter03.png",
+                    "AssetGUID": "03e4ee8d0b5f45045bb12e2930ed4058"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise01.png",
+                    "AssetGUID": "82f4b06147155c54da475b309b9e24fa"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise02.png",
+                    "AssetGUID": "28c7aad1372ff114b90d330f8a2dd938"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/AdditiveMobile_Scroll01.shader",
+                    "AssetGUID": "772c876c2069d0b488fb2840de6e4f6b"
+                }
+            ],
+            "DependBundles": [
+                "hostpackage_share_assets__game_res_ui_particles_materials.bundle"
+            ]
         }
     ],
     "BundleInfos": [
@@ -70315,10 +70348,10 @@
         },
         {
             "BundleName": "hostpackage_unityshaders.bundle",
-            "FileName": "4ef87208ef6d81384ddab095649568cc.bundle",
-            "FileHash": "4ef87208ef6d81384ddab095649568cc",
-            "FileCRC": 652002597,
-            "FileSize": 1563994,
+            "FileName": "68d012824e103087550785edce89a8c0.bundle",
+            "FileHash": "68d012824e103087550785edce89a8c0",
+            "FileCRC": 225345965,
+            "FileSize": 1620021,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -70649,6 +70682,10 @@
                 {
                     "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/Blend_CenterGlow.shader",
                     "AssetGUID": "2c3615ef8d99cfd4cad329669edd2828"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/NewShaderVariants.shadervariants",
+                    "AssetGUID": "5d20f8d9533d4174e8ba904d26f1bf31"
                 },
                 {
                     "AssetPath": "Assets/_Game/Res/Unity UI Samples/Materials/GrayScale.shader",
