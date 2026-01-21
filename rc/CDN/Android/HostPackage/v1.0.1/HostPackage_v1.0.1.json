@@ -10,7 +10,7 @@
     "BuildPipeline": "CustomBuildPipeline",
     "PackageName": "HostPackage",
     "PackageVersion": "v1.0.1",
-    "PackageNote": "1/20/2026 5:19:14 PM",
+    "PackageNote": "1/21/2026 12:32:58 PM",
     "AssetList": [
         {
             "Address": "BoosterOfferNOZ",
@@ -20,6 +20,7 @@
             "BundleID": 0,
             "DependBundleIDs": [
                 50,
+                74,
                 78,
                 141,
                 144,
@@ -54,6 +55,7 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependBundleIDs": [
+                74,
                 163,
                 167,
                 168,
@@ -3451,6 +3453,7 @@
             "AssetTags": [],
             "BundleID": 75,
             "DependBundleIDs": [
+                74,
                 226,
                 229,
                 230,
@@ -3693,13 +3696,14 @@
     "BundleList": [
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
-            "UnityCRC": 4285043567,
-            "FileHash": "bee837778f5c7809f6690c36bfb9fffb",
-            "FileCRC": 2148362367,
-            "FileSize": 47539,
+            "UnityCRC": 3516523366,
+            "FileHash": "604b2578bc7ef5f24fb5640e846dbd6a",
+            "FileCRC": 647997280,
+            "FileSize": 47592,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
+                74,
                 120,
                 133,
                 141,
@@ -3731,13 +3735,14 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffershield.bundle",
-            "UnityCRC": 2759143667,
-            "FileHash": "0925fc2104cf50953253fb483d82a7c5",
-            "FileCRC": 896346061,
-            "FileSize": 36953,
+            "UnityCRC": 1240841649,
+            "FileHash": "7da58ae8124d4ad93c3a2e391ce64b36",
+            "FileCRC": 2510938970,
+            "FileSize": 37007,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
+                74,
                 120,
                 133,
                 142,
@@ -3758,10 +3763,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_garage.bundle",
-            "UnityCRC": 3295996374,
-            "FileHash": "e79cc65fb662a2f1b91a99945fb0691c",
-            "FileCRC": 1780181518,
-            "FileSize": 49727,
+            "UnityCRC": 957778029,
+            "FileHash": "7277d3b78e63b1c63c353939916b4196",
+            "FileCRC": 2143357799,
+            "FileSize": 49640,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -3864,10 +3869,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_upgrade.bundle",
-            "UnityCRC": 2696177293,
-            "FileHash": "afc64bc541f26f33757585e7e825a2c5",
-            "FileCRC": 1474652136,
-            "FileSize": 55574,
+            "UnityCRC": 3314915196,
+            "FileHash": "f216dd1d6ac33ba056fa6b6b1231ab35",
+            "FileCRC": 2257086195,
+            "FileSize": 55457,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6978,10 +6983,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_settings.bundle",
-            "UnityCRC": 355380558,
-            "FileHash": "a7282399dc3271adf81696dc727d036c",
-            "FileCRC": 3957892922,
-            "FileSize": 1986,
+            "UnityCRC": 3863624913,
+            "FileHash": "ff3c782cd7d8399fe582199a4db0266d",
+            "FileCRC": 975348595,
+            "FileSize": 2004,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -7643,13 +7648,14 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "UnityCRC": 2559975925,
-            "FileHash": "ed769941a7403dc0f2d9974774fa4d8a",
-            "FileCRC": 1231794616,
-            "FileSize": 186762,
+            "UnityCRC": 3280182149,
+            "FileHash": "4f75efaf40f0e23c6622e8bdd9a763e2",
+            "FileCRC": 1440668221,
+            "FileSize": 186949,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
+                74,
                 145,
                 146,
                 151,
@@ -7688,10 +7694,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_host_settings.bundle",
-            "UnityCRC": 734403143,
-            "FileHash": "c2799f109241bbc549457c245e30828c",
-            "FileCRC": 1714647776,
-            "FileSize": 8507,
+            "UnityCRC": 1890904227,
+            "FileHash": "be7cbdd9371fba22e44e4772105d5e93",
+            "FileCRC": 3465430297,
+            "FileSize": 8797,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -9560,10 +9566,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_materials.bundle",
-            "UnityCRC": 2834820505,
-            "FileHash": "80be0f738bc40dab759f70f7f0e831c1",
-            "FileCRC": 510503820,
-            "FileSize": 6836,
+            "UnityCRC": 2815700014,
+            "FileHash": "ff8960aa2c1ac15641d7b6391cb36db1",
+            "FileCRC": 1350822059,
+            "FileSize": 6828,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -11189,10 +11195,10 @@
         },
         {
             "BundleName": "hostpackage_unityshaders.bundle",
-            "UnityCRC": 1035252270,
-            "FileHash": "be4dd315e3c81f12b8b6d1753ab7b594",
-            "FileCRC": 2418663944,
-            "FileSize": 1565109,
+            "UnityCRC": 3545011248,
+            "FileHash": "4ef87208ef6d81384ddab095649568cc",
+            "FileCRC": 652002597,
+            "FileSize": 1563994,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []

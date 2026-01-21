@@ -14,6 +14,11 @@
     <type fullname="DLCSettings" preserve="all" />
     <type fullname="FollowSplineObject" preserve="all" />
     <type fullname="Garage" preserve="all" />
+    <type fullname="GmG.Packages.UI.RecyclerView" preserve="all" />
+    <type fullname="GmG.Packages.UI.UITweenMove" preserve="all" />
+    <type fullname="GmG.Packages.UI.UITweenRotation" preserve="all" />
+    <type fullname="GmG.Packages.UI.UITweenScale" preserve="all" />
+    <type fullname="GmG.Settings.PresentationSettings" preserve="all" />
     <type fullname="HardObstacle" preserve="all" />
     <type fullname="MapObstaclesToggler" preserve="all" />
     <type fullname="NOZ" preserve="all" />
@@ -37,6 +42,7 @@
     <type fullname="RenderSettingsConfig" preserve="all" />
     <type fullname="ResetRotationOnInit" preserve="all" />
     <type fullname="RespawnCheckPoint" preserve="all" />
+    <type fullname="Sample.Settings.AtlasSettings" preserve="all" />
     <type fullname="TurnOnOffObject" preserve="all" />
     <type fullname="TweenAlpha" preserve="all" />
     <type fullname="TweenPosition" preserve="all" />
@@ -91,13 +97,6 @@
   </assembly>
   <assembly fullname="GmG.Settings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="GmG.Settings.HostGlobalSettings" preserve="all" />
-  </assembly>
-  <assembly fullname="GmG.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="GmG.Packages.UI.RecyclerView" preserve="all" />
-    <type fullname="GmG.Packages.UI.UITweenMove" preserve="all" />
-    <type fullname="GmG.Packages.UI.UITweenRotation" preserve="all" />
-    <type fullname="GmG.Packages.UI.UITweenScale" preserve="all" />
-    <type fullname="GmG.Settings.PresentationSettings" preserve="all" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
