@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "6000.0.64f1",
-        "BuildDate": "1/21/2026 12:34:40 PM",
-        "BuildSeconds": 100,
+        "BuildDate": "1/21/2026 2:42:16 PM",
+        "BuildSeconds": 37,
         "BuildTarget": 13,
         "BuildPipeline": "CustomBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "HostPackage",
         "BuildPackageVersion": "v1.0.1",
-        "BuildPackageNote": "1/21/2026 12:32:58 PM",
+        "BuildPackageNote": "1/21/2026 2:41:37 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -17,8 +17,8 @@
         "IncludeAssetGUID": true,
         "AutoCollectShaders": true,
         "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
-        "ClearBuildCacheFiles": true,
-        "UseAssetDependencyDB": false,
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": true,
         "EnableSharePackRule": true,
         "SingleReferencedPackAlone": true,
         "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "hostpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 2579,
+        "AssetFileTotalCount": 2577,
         "MainAssetTotalCount": 134,
         "AllBundleTotalCount": 278,
-        "AllBundleTotalSize": 119843953,
+        "AllBundleTotalSize": 119406391,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -48,7 +48,7 @@
             "AssetGUID": "197fac4b430e842f9a737c0bd96cf714",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
-            "MainBundleSize": 47592,
+            "MainBundleSize": 47591,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/Skins/body/Car_1_1.prefab",
@@ -289,7 +289,7 @@
             ],
             "DependBundles": [
                 "hostpackage_assets__game_host_skins_body_car_1_1.bundle",
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_local_pools.bundle",
                 "hostpackage_share_assets__game_res_car_hiker.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_cfx_prefabs_smoke_color_variants.bundle",
@@ -403,7 +403,7 @@
                 }
             ],
             "DependBundles": [
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_materials.bundle",
                 "hostpackage_share_assets__game_res_particles_materials.bundle",
                 "hostpackage_share_assets__game_res_particles_prefabs.bundle",
@@ -1741,7 +1741,7 @@
             "AssetGUID": "f69457b579e0dd84dbe3a1eac06535ec",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_01_nightcity_5_new.bundle",
-            "MainBundleSize": 222647,
+            "MainBundleSize": 222638,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Grey_Dark_MTL.mat",
@@ -2824,7 +2824,7 @@
             "AssetGUID": "e4255bd74e400634fb74dc7c4a8fe267",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_02_amusementpark_2.bundle",
-            "MainBundleSize": 208964,
+            "MainBundleSize": 208951,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Balloon_0.fbx",
@@ -3668,7 +3668,7 @@
             "AssetGUID": "bd6aa0a9be5259142a9c464af624b094",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_03_amusementpark_3.bundle",
-            "MainBundleSize": 227193,
+            "MainBundleSize": 227177,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -4497,7 +4497,7 @@
             "AssetGUID": "9f18f68225310a444b4b788d17528100",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_04_amusementpark_4.bundle",
-            "MainBundleSize": 259810,
+            "MainBundleSize": 259795,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -5265,7 +5265,7 @@
             "AssetGUID": "dd2df346697021a4fbd2518fbb673449",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_05_candyland_1.bundle",
-            "MainBundleSize": 232002,
+            "MainBundleSize": 231995,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr fire circle drawn blurred hdr ab.mat",
@@ -5752,7 +5752,7 @@
             "AssetGUID": "3d57619d41cf02b4cb4aa982e07e15de",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_06_candyland_2.bundle",
-            "MainBundleSize": 260174,
+            "MainBundleSize": 260164,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/Items/Cube.fbx",
@@ -6407,7 +6407,7 @@
             "AssetGUID": "b8938a456b3077c4ca558b7c8897cbf7",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_07_candyland_3.bundle",
-            "MainBundleSize": 253475,
+            "MainBundleSize": 253462,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Gate_heart.fbx",
@@ -6941,7 +6941,7 @@
             "AssetGUID": "b4b1e9284283ae54d9b751da21220ace",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_08_candyland_4.bundle",
-            "MainBundleSize": 294921,
+            "MainBundleSize": 294910,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/Items/Hikers/Materials/HH_Gradient_A_dif.mat",
@@ -7637,7 +7637,7 @@
             "AssetGUID": "bdaf0eed745e57c41a479bcfc1017915",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_09_megacity_1.bundle",
-            "MainBundleSize": 127123,
+            "MainBundleSize": 127117,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/Items/Airscrew.fbx",
@@ -8582,7 +8582,7 @@
             "AssetGUID": "f4acc35ba70de1d42bd565d15b9162db",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_10_megacity_2.bundle",
-            "MainBundleSize": 199744,
+            "MainBundleSize": 199736,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Balloon_0.fbx",
@@ -9723,7 +9723,7 @@
             "AssetGUID": "f6215bdc97357804895281d9dfea001d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_11_megacity_3.bundle",
-            "MainBundleSize": 274775,
+            "MainBundleSize": 274759,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -10961,7 +10961,7 @@
             "AssetGUID": "bc969e1f9043136459072dd4b810bfcc",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_12_megacity_4.bundle",
-            "MainBundleSize": 262062,
+            "MainBundleSize": 262050,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -12316,7 +12316,7 @@
             "AssetGUID": "98778e5d96124904d966ea9324fc7ec4",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_13_airport_1.bundle",
-            "MainBundleSize": 242300,
+            "MainBundleSize": 242288,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -13221,7 +13221,7 @@
             "AssetGUID": "c8189c20847b108448254259b181c4ac",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_14_airport_2.bundle",
-            "MainBundleSize": 216317,
+            "MainBundleSize": 216300,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -14189,7 +14189,7 @@
             "AssetGUID": "0de5e1815d569924c95e2966f39b0517",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_15_airport_3.bundle",
-            "MainBundleSize": 267744,
+            "MainBundleSize": 267731,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Amusement_Park_Pillar.fbx",
@@ -15177,7 +15177,7 @@
             "AssetGUID": "709efb574dd0ff9499addbe294fa9a80",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_16_airport_4.bundle",
-            "MainBundleSize": 253596,
+            "MainBundleSize": 253581,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Grey_Dark_MTL.mat",
@@ -16122,7 +16122,7 @@
             "AssetGUID": "9f2401ec26a84fe44869f4fe41dd2c09",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_17_nightcity_1.bundle",
-            "MainBundleSize": 279125,
+            "MainBundleSize": 279111,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -17138,7 +17138,7 @@
             "AssetGUID": "201eaab4e71f614479d940ac76a0f012",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_18_nightcity_2.bundle",
-            "MainBundleSize": 260684,
+            "MainBundleSize": 260674,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Blue_Dark_MTL.mat",
@@ -18277,7 +18277,7 @@
             "AssetGUID": "4c1de060852927142b63ecd1af38dd01",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_19_nightcity_3.bundle",
-            "MainBundleSize": 257029,
+            "MainBundleSize": 257016,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -19403,7 +19403,7 @@
             "AssetGUID": "5d6213c020fff4a4bada84c4063a4dcf",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_20_nightcity_4.bundle",
-            "MainBundleSize": 263816,
+            "MainBundleSize": 263808,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -20527,7 +20527,7 @@
             "AssetGUID": "dcca0248671e4ca499959831fbb09744",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_21_farmland_1.bundle",
-            "MainBundleSize": 338558,
+            "MainBundleSize": 338545,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -21714,7 +21714,7 @@
             "AssetGUID": "151c66e1ad4e5d24aa7d9c5352510b7d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_22_farmland_2.bundle",
-            "MainBundleSize": 291261,
+            "MainBundleSize": 291249,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -22700,7 +22700,7 @@
             "AssetGUID": "394cb7366846eac42ae0c4fba8f9c6a9",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_23_farmland_3.bundle",
-            "MainBundleSize": 271617,
+            "MainBundleSize": 271605,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Grey_Dark_MTL.mat",
@@ -23793,7 +23793,7 @@
             "AssetGUID": "a12d5d5f5988097489a39915f46420e6",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_24_farmland_4.bundle",
-            "MainBundleSize": 315863,
+            "MainBundleSize": 315848,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -25005,7 +25005,7 @@
             "AssetGUID": "e93f06a56ab6a2242bd34cf5cce59937",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_25_port_1.bundle",
-            "MainBundleSize": 184602,
+            "MainBundleSize": 184594,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -26389,7 +26389,7 @@
             "AssetGUID": "ca53e1b27e4d0ed46800c655fb01b72a",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_27_port_3.bundle",
-            "MainBundleSize": 216758,
+            "MainBundleSize": 216750,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -27251,7 +27251,7 @@
             "AssetGUID": "813512435f51b2e4193fea2b504d2ffb",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_28_port_4.bundle",
-            "MainBundleSize": 227625,
+            "MainBundleSize": 227615,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -28161,7 +28161,7 @@
             "AssetGUID": "4b2bea9308544b443a0befc867b37b00",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_29_waterpark_1.bundle",
-            "MainBundleSize": 251823,
+            "MainBundleSize": 251813,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Arch.fbx",
@@ -29017,7 +29017,7 @@
             "AssetGUID": "13b6efe5a5d11f54290ec41354ad2d68",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_30_waterpark_2.bundle",
-            "MainBundleSize": 243294,
+            "MainBundleSize": 243281,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Beige_MTL.mat",
@@ -29913,7 +29913,7 @@
             "AssetGUID": "509bf46f9754faa41b05978449944469",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_31_waterpark_3.bundle",
-            "MainBundleSize": 237172,
+            "MainBundleSize": 237165,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Balloon_0.fbx",
@@ -30658,7 +30658,7 @@
             "AssetGUID": "ce5b4491dc5984c45b65331bba0231b7",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_32_waterpark_4.bundle",
-            "MainBundleSize": 272617,
+            "MainBundleSize": 272606,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Beige_MTL.mat",
@@ -31432,7 +31432,7 @@
             "AssetGUID": "e640f20aa1248434297d866dd06bf007",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_33_spacestation_1.bundle",
-            "MainBundleSize": 226576,
+            "MainBundleSize": 226563,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -32552,7 +32552,7 @@
             "AssetGUID": "9d79fa149a86f144ba9b0dfc5ef09b02",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_34_spacestation_2.bundle",
-            "MainBundleSize": 222547,
+            "MainBundleSize": 222534,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Metal_Grey_Dark_MTL.mat",
@@ -33619,7 +33619,7 @@
             "AssetGUID": "b396ef946bb283e45a73c0c6f382b600",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_35_spacestation_3.bundle",
-            "MainBundleSize": 187994,
+            "MainBundleSize": 187981,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -34652,7 +34652,7 @@
             "AssetGUID": "b9bd01ccce84e624fb05ac20fbd2815c",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_36_spacestation_4.bundle",
-            "MainBundleSize": 224276,
+            "MainBundleSize": 224265,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -35715,7 +35715,7 @@
             "AssetGUID": "5c08324e2218e4240b95a6de2e6520d6",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_37_chinagreatwall_1.bundle",
-            "MainBundleSize": 214123,
+            "MainBundleSize": 214109,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -36810,7 +36810,7 @@
             "AssetGUID": "8f2821f6eea84a84eaf908bbb35faf6d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_38_chinagreatwall_2.bundle",
-            "MainBundleSize": 252575,
+            "MainBundleSize": 252569,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackYellow_dif.mat",
@@ -37795,7 +37795,7 @@
             "AssetGUID": "af04cd94d9c3a6b429ee5797d7ab0e54",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_39_chinagreatwall_3.bundle",
-            "MainBundleSize": 211500,
+            "MainBundleSize": 211497,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackRed_dif.mat",
@@ -38470,7 +38470,7 @@
             "AssetGUID": "70798724b062df34dafede57006f89d9",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_levels_40_chinagreatwall_4.bundle",
-            "MainBundleSize": 201032,
+            "MainBundleSize": 201025,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/3DModels/AmusementPark/Materials/Color_Stripes_BlackRed_dif.mat",
@@ -46290,32 +46290,12 @@
             ]
         },
         {
-            "Address": "BoosterOfferTexture",
-            "AssetPath": "Assets/_Game/Host/UI/BoosterOfferTexture.asset",
-            "AssetGUID": "035912779cab8064da956fad43b234fc",
-            "AssetTags": [],
-            "MainBundleName": "hostpackage_assets__game_host_ui.bundle",
-            "MainBundleSize": 2545,
-            "DependAssets": [],
-            "DependBundles": []
-        },
-        {
-            "Address": "BoosterRenderTexture",
-            "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
-            "AssetGUID": "9e0d1ec86cb397f4f8321b29020fd2ad",
-            "AssetTags": [],
-            "MainBundleName": "hostpackage_assets__game_host_ui.bundle",
-            "MainBundleSize": 2545,
-            "DependAssets": [],
-            "DependBundles": []
-        },
-        {
             "Address": "popup.booster.offers",
             "AssetPath": "Assets/_Game/Host/UI/Popups/popup.booster.offers.prefab",
             "AssetGUID": "61d2935858b04c845bec44bc25c693fa",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
@@ -46395,7 +46375,7 @@
                 }
             ],
             "DependBundles": [
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_racemaster_sfx_audioclip.bundle",
                 "hostpackage_share_assets__game_res_racemaster_ui_bg_label.bundle",
                 "hostpackage_share_assets__game_res_racemaster_ui_font.bundle",
@@ -46414,7 +46394,7 @@
             "AssetGUID": "94c510d43cf4bb5488de631733141812",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p8 add.mat",
@@ -46545,7 +46525,7 @@
             "AssetGUID": "012248d91ea7bec41a58bf10b1eb68d1",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46608,7 +46588,7 @@
             "AssetGUID": "02a9f241561e6d643ae7233622ed749d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46700,7 +46680,7 @@
             "AssetGUID": "5bf746699411ed6439e4c217dff1c896",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -46964,7 +46944,7 @@
             "AssetGUID": "45920fc3ece4db84fb0ad8150d12372d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p4 add nosp.mat",
@@ -47095,10 +47075,6 @@
                     "AssetGUID": "28c7aad1372ff114b90d330f8a2dd938"
                 },
                 {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Prefabs/UPGRADE_BUTTON.prefab",
-                    "AssetGUID": "aff9b2df123cb7549ae49c06186d7abb"
-                },
-                {
                     "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/AdditiveMobile_Scroll01.shader",
                     "AssetGUID": "772c876c2069d0b488fb2840de6e4f6b"
                 },
@@ -47118,7 +47094,6 @@
                 "hostpackage_share_assets__game_res_ui_icon.bundle",
                 "hostpackage_share_assets__game_res_ui_icons.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
-                "hostpackage_share_assets__game_res_ui_particles_prefabs.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
                 "hostpackage_unityshaders.bundle"
             ]
@@ -47129,7 +47104,7 @@
             "AssetGUID": "c95314e12457b5a468f1633ac31105e5",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47174,7 +47149,7 @@
             "AssetGUID": "933c93ad10d3930499fbdd79e90ceae5",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Smoke/CFXM_SmokePuffs_Big.prefab",
@@ -47544,7 +47519,7 @@
             "AssetGUID": "932315dede66ac249acd988d1535cbf0",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/SFX/AudioClip/countdown.wav",
@@ -47582,7 +47557,7 @@
             "AssetGUID": "674d2692f6ad76a458126a4d25d11952",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47699,7 +47674,7 @@
             "AssetGUID": "4759ef531bb33b546b1c3ab7abb4ab5d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47794,7 +47769,7 @@
             "AssetGUID": "5034d17effdc51d4597832d38f718505",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -47832,7 +47807,7 @@
             "AssetGUID": "9234cf1e232b5bc46bc746cdb0519c79",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 186949,
+            "MainBundleSize": 186953,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -47873,19 +47848,58 @@
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
                 "hostpackage_unityshaders.bundle"
             ]
+        },
+        {
+            "Address": "AdditiveMobile_Scroll01",
+            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/AdditiveMobile_Scroll01.shader",
+            "AssetGUID": "772c876c2069d0b488fb2840de6e4f6b",
+            "AssetTags": [],
+            "MainBundleName": "hostpackage_unityshaders.bundle",
+            "MainBundleSize": 1563994,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Gradient_greyscale.PNG",
+                    "AssetGUID": "789405d2635550c4c9df257b8e484c62"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/GradientCenter03.png",
+                    "AssetGUID": "03e4ee8d0b5f45045bb12e2930ed4058"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise01.png",
+                    "AssetGUID": "82f4b06147155c54da475b309b9e24fa"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise02.png",
+                    "AssetGUID": "28c7aad1372ff114b90d330f8a2dd938"
+                }
+            ],
+            "DependBundles": [
+                "hostpackage_share_assets__game_res_ui_particles_materials.bundle"
+            ]
+        },
+        {
+            "Address": "Blend_CenterGlow",
+            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/Blend_CenterGlow.shader",
+            "AssetGUID": "2c3615ef8d99cfd4cad329669edd2828",
+            "AssetTags": [],
+            "MainBundleName": "hostpackage_unityshaders.bundle",
+            "MainBundleSize": 1563994,
+            "DependAssets": [],
+            "DependBundles": []
         }
     ],
     "BundleInfos": [
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
-            "FileName": "604b2578bc7ef5f24fb5640e846dbd6a.bundle",
-            "FileHash": "604b2578bc7ef5f24fb5640e846dbd6a",
-            "FileCRC": 647997280,
-            "FileSize": 47592,
+            "FileName": "846369dba9bd0c9b9634413b63646080.bundle",
+            "FileHash": "846369dba9bd0c9b9634413b63646080",
+            "FileCRC": 2233728276,
+            "FileSize": 47591,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_3dmodels_textures.bundle",
                 "hostpackage_share_assets__game_res_3dmodels_tracks_tracktextures.bundle",
                 "hostpackage_share_assets__game_res_car_hiker.bundle",
@@ -47924,14 +47938,14 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffershield.bundle",
-            "FileName": "7da58ae8124d4ad93c3a2e391ce64b36.bundle",
-            "FileHash": "7da58ae8124d4ad93c3a2e391ce64b36",
-            "FileCRC": 2510938970,
+            "FileName": "c2d4dbc82655ad639fd782f1bd4e806c.bundle",
+            "FileHash": "c2d4dbc82655ad639fd782f1bd4e806c",
+            "FileCRC": 198915029,
             "FileSize": 37007,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_3dmodels_textures.bundle",
                 "hostpackage_share_assets__game_res_3dmodels_tracks_tracktextures.bundle",
                 "hostpackage_share_assets__game_res_cars.bundle",
@@ -47959,9 +47973,9 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_garage.bundle",
-            "FileName": "7277d3b78e63b1c63c353939916b4196.bundle",
-            "FileHash": "7277d3b78e63b1c63c353939916b4196",
-            "FileCRC": 2143357799,
+            "FileName": "d63ed368c6009b935d29adfb403763ec.bundle",
+            "FileHash": "d63ed368c6009b935d29adfb403763ec",
+            "FileCRC": 1705315273,
             "FileSize": 49640,
             "Encrypted": false,
             "Tags": [],
@@ -48004,9 +48018,9 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_offer.bundle",
-            "FileName": "93d84da07cefbf87287e0f302533f79a.bundle",
-            "FileHash": "93d84da07cefbf87287e0f302533f79a",
-            "FileCRC": 3935291040,
+            "FileName": "b00365b0075b1ea32442db7bff0a2753.bundle",
+            "FileHash": "b00365b0075b1ea32442db7bff0a2753",
+            "FileCRC": 3420174266,
             "FileSize": 29123,
             "Encrypted": false,
             "Tags": [],
@@ -48079,9 +48093,9 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_upgrade.bundle",
-            "FileName": "f216dd1d6ac33ba056fa6b6b1231ab35.bundle",
-            "FileHash": "f216dd1d6ac33ba056fa6b6b1231ab35",
-            "FileCRC": 2257086195,
+            "FileName": "20fc61ae4515c38ff85c6527cfc901fb.bundle",
+            "FileHash": "20fc61ae4515c38ff85c6527cfc901fb",
+            "FileCRC": 536918751,
             "FileSize": 55457,
             "Encrypted": false,
             "Tags": [],
@@ -48159,10 +48173,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_01_nightcity_5_new.bundle",
-            "FileName": "b55cc86cc156ae2de22e31e58125083b.bundle",
-            "FileHash": "b55cc86cc156ae2de22e31e58125083b",
-            "FileCRC": 576430668,
-            "FileSize": 222647,
+            "FileName": "27bab9d803829c3d87d405e07e14501a.bundle",
+            "FileHash": "27bab9d803829c3d87d405e07e14501a",
+            "FileCRC": 1539135077,
+            "FileSize": 222638,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48244,10 +48258,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_02_amusementpark_2.bundle",
-            "FileName": "16e7030c2ea0f7a8a8c906c69f50768d.bundle",
-            "FileHash": "16e7030c2ea0f7a8a8c906c69f50768d",
-            "FileCRC": 604218974,
-            "FileSize": 208964,
+            "FileName": "c7d7c00d77bc8b9393614bb6d7399d59.bundle",
+            "FileHash": "c7d7c00d77bc8b9393614bb6d7399d59",
+            "FileCRC": 1431286871,
+            "FileSize": 208951,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48324,10 +48338,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_03_amusementpark_3.bundle",
-            "FileName": "256828f06238dc192325d03c037fec01.bundle",
-            "FileHash": "256828f06238dc192325d03c037fec01",
-            "FileCRC": 4192631200,
-            "FileSize": 227193,
+            "FileName": "c78ea7535ca03c49c0f1fa82adc1af0d.bundle",
+            "FileHash": "c78ea7535ca03c49c0f1fa82adc1af0d",
+            "FileCRC": 1769781866,
+            "FileSize": 227177,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48403,10 +48417,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_04_amusementpark_4.bundle",
-            "FileName": "5ecfe8c51e69602bf79c07060793d0f4.bundle",
-            "FileHash": "5ecfe8c51e69602bf79c07060793d0f4",
-            "FileCRC": 2032324677,
-            "FileSize": 259810,
+            "FileName": "016f3b095af8928c9da65119161901f4.bundle",
+            "FileHash": "016f3b095af8928c9da65119161901f4",
+            "FileCRC": 1545574490,
+            "FileSize": 259795,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48473,10 +48487,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_05_candyland_1.bundle",
-            "FileName": "eb396acfbe3739b4a4637aaaabcae1a7.bundle",
-            "FileHash": "eb396acfbe3739b4a4637aaaabcae1a7",
-            "FileCRC": 3006325372,
-            "FileSize": 232002,
+            "FileName": "a6a9c6b3e140e04e10d298028c2c6632.bundle",
+            "FileHash": "a6a9c6b3e140e04e10d298028c2c6632",
+            "FileCRC": 4053749260,
+            "FileSize": 231995,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48511,10 +48525,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_06_candyland_2.bundle",
-            "FileName": "2e8bfb8bbd10abf0e267d615ac1d0653.bundle",
-            "FileHash": "2e8bfb8bbd10abf0e267d615ac1d0653",
-            "FileCRC": 1727691627,
-            "FileSize": 260174,
+            "FileName": "c25098f96a78f63ec6545e1bab038554.bundle",
+            "FileHash": "c25098f96a78f63ec6545e1bab038554",
+            "FileCRC": 3773464765,
+            "FileSize": 260164,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48580,10 +48594,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_07_candyland_3.bundle",
-            "FileName": "35a451cbef96ea5a15005b5581c93d15.bundle",
-            "FileHash": "35a451cbef96ea5a15005b5581c93d15",
-            "FileCRC": 779447345,
-            "FileSize": 253475,
+            "FileName": "fca934aa76ed38d2b2721093b81457ec.bundle",
+            "FileHash": "fca934aa76ed38d2b2721093b81457ec",
+            "FileCRC": 471421862,
+            "FileSize": 253462,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48648,10 +48662,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_08_candyland_4.bundle",
-            "FileName": "3a5dec214515d6e101009ccae83d583b.bundle",
-            "FileHash": "3a5dec214515d6e101009ccae83d583b",
-            "FileCRC": 71740025,
-            "FileSize": 294921,
+            "FileName": "a2ba1a5e76b872f7b0d780534ae99fd9.bundle",
+            "FileHash": "a2ba1a5e76b872f7b0d780534ae99fd9",
+            "FileCRC": 2252661037,
+            "FileSize": 294910,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48717,10 +48731,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_09_megacity_1.bundle",
-            "FileName": "fa3fe6c7a8636d374176b65f5451d926.bundle",
-            "FileHash": "fa3fe6c7a8636d374176b65f5451d926",
-            "FileCRC": 4023771251,
-            "FileSize": 127123,
+            "FileName": "e5fd3e4586a297099a1a09525f3aeea8.bundle",
+            "FileHash": "e5fd3e4586a297099a1a09525f3aeea8",
+            "FileCRC": 911134563,
+            "FileSize": 127117,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48794,10 +48808,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_10_megacity_2.bundle",
-            "FileName": "be5fc17c4eb167485a21e0625ab3fa18.bundle",
-            "FileHash": "be5fc17c4eb167485a21e0625ab3fa18",
-            "FileCRC": 1081481692,
-            "FileSize": 199744,
+            "FileName": "8cc75f1e741df1aeabf100809c9167bc.bundle",
+            "FileHash": "8cc75f1e741df1aeabf100809c9167bc",
+            "FileCRC": 1915111442,
+            "FileSize": 199736,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48873,10 +48887,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_11_megacity_3.bundle",
-            "FileName": "c3f7016d7a3409c5b11054b8d3d371d8.bundle",
-            "FileHash": "c3f7016d7a3409c5b11054b8d3d371d8",
-            "FileCRC": 1500175609,
-            "FileSize": 274775,
+            "FileName": "90d1deddea6ef4dee99ca07c7cdc3b8f.bundle",
+            "FileHash": "90d1deddea6ef4dee99ca07c7cdc3b8f",
+            "FileCRC": 1188246447,
+            "FileSize": 274759,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -48956,10 +48970,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_12_megacity_4.bundle",
-            "FileName": "2c6d33fb510344f031b085251f273492.bundle",
-            "FileHash": "2c6d33fb510344f031b085251f273492",
-            "FileCRC": 517811854,
-            "FileSize": 262062,
+            "FileName": "7f26fd6fde671dc1326524478c760379.bundle",
+            "FileHash": "7f26fd6fde671dc1326524478c760379",
+            "FileCRC": 980370099,
+            "FileSize": 262050,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49037,10 +49051,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_13_airport_1.bundle",
-            "FileName": "e2575823f769a347866c05cd1ae6ee52.bundle",
-            "FileHash": "e2575823f769a347866c05cd1ae6ee52",
-            "FileCRC": 2978314452,
-            "FileSize": 242300,
+            "FileName": "c6935af438d7c30e217f26672d432bd9.bundle",
+            "FileHash": "c6935af438d7c30e217f26672d432bd9",
+            "FileCRC": 3980515813,
+            "FileSize": 242288,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49111,10 +49125,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_14_airport_2.bundle",
-            "FileName": "0f8d4e9127a6561c238963b847099509.bundle",
-            "FileHash": "0f8d4e9127a6561c238963b847099509",
-            "FileCRC": 3259625361,
-            "FileSize": 216317,
+            "FileName": "6ab1c8fcb2748185760044ed16f96180.bundle",
+            "FileHash": "6ab1c8fcb2748185760044ed16f96180",
+            "FileCRC": 1509200605,
+            "FileSize": 216300,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49189,10 +49203,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_15_airport_3.bundle",
-            "FileName": "3134e89389be1525ccac155aa9f54c87.bundle",
-            "FileHash": "3134e89389be1525ccac155aa9f54c87",
-            "FileCRC": 3696941062,
-            "FileSize": 267744,
+            "FileName": "5ee532fa3b8d18f0d2ce6d464ea10a12.bundle",
+            "FileHash": "5ee532fa3b8d18f0d2ce6d464ea10a12",
+            "FileCRC": 4225484251,
+            "FileSize": 267731,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49269,10 +49283,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_16_airport_4.bundle",
-            "FileName": "a7040a834d8668a392e660ae6f0db03d.bundle",
-            "FileHash": "a7040a834d8668a392e660ae6f0db03d",
-            "FileCRC": 1377497798,
-            "FileSize": 253596,
+            "FileName": "bdc99bc463b4165881fabaf0e8c52728.bundle",
+            "FileHash": "bdc99bc463b4165881fabaf0e8c52728",
+            "FileCRC": 1916686041,
+            "FileSize": 253581,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49349,10 +49363,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_17_nightcity_1.bundle",
-            "FileName": "4310dbeaa1dac3d3416e9d60bd9e611b.bundle",
-            "FileHash": "4310dbeaa1dac3d3416e9d60bd9e611b",
-            "FileCRC": 897882091,
-            "FileSize": 279125,
+            "FileName": "af7989437bba52ecc698af50c071ee2f.bundle",
+            "FileHash": "af7989437bba52ecc698af50c071ee2f",
+            "FileCRC": 1871663407,
+            "FileSize": 279111,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49426,10 +49440,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_18_nightcity_2.bundle",
-            "FileName": "a93f6ced12c88e12bc60d33bf9b77576.bundle",
-            "FileHash": "a93f6ced12c88e12bc60d33bf9b77576",
-            "FileCRC": 3795115056,
-            "FileSize": 260684,
+            "FileName": "a78a0c5b5722ace86603f2481528a8c2.bundle",
+            "FileHash": "a78a0c5b5722ace86603f2481528a8c2",
+            "FileCRC": 2038867684,
+            "FileSize": 260674,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49506,10 +49520,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_19_nightcity_3.bundle",
-            "FileName": "fac55242f4c76de8405e81feb3e45a66.bundle",
-            "FileHash": "fac55242f4c76de8405e81feb3e45a66",
-            "FileCRC": 2529382266,
-            "FileSize": 257029,
+            "FileName": "7ce0c1acf9f6133d22ee57c97efcca55.bundle",
+            "FileHash": "7ce0c1acf9f6133d22ee57c97efcca55",
+            "FileCRC": 4001582192,
+            "FileSize": 257016,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49580,10 +49594,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_20_nightcity_4.bundle",
-            "FileName": "290ff173f46c964ac7519f75891c7508.bundle",
-            "FileHash": "290ff173f46c964ac7519f75891c7508",
-            "FileCRC": 2870611257,
-            "FileSize": 263816,
+            "FileName": "28e62927160b9c0610449e17584f052c.bundle",
+            "FileHash": "28e62927160b9c0610449e17584f052c",
+            "FileCRC": 1537523675,
+            "FileSize": 263808,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49662,10 +49676,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_21_farmland_1.bundle",
-            "FileName": "0f78666aac9da3c26479aff40a2d0316.bundle",
-            "FileHash": "0f78666aac9da3c26479aff40a2d0316",
-            "FileCRC": 2362383691,
-            "FileSize": 338558,
+            "FileName": "069bcb2fff32fd492c564f817a648a93.bundle",
+            "FileHash": "069bcb2fff32fd492c564f817a648a93",
+            "FileCRC": 3599910951,
+            "FileSize": 338545,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49743,10 +49757,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_22_farmland_2.bundle",
-            "FileName": "9ab95531b714cbd5b9508b5e3c9db3a4.bundle",
-            "FileHash": "9ab95531b714cbd5b9508b5e3c9db3a4",
-            "FileCRC": 1266901907,
-            "FileSize": 291261,
+            "FileName": "7ac2da4b047250f70043b0db3dc0092e.bundle",
+            "FileHash": "7ac2da4b047250f70043b0db3dc0092e",
+            "FileCRC": 2227108765,
+            "FileSize": 291249,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49824,10 +49838,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_23_farmland_3.bundle",
-            "FileName": "1a737c37bda27a2b838408751daeaf9d.bundle",
-            "FileHash": "1a737c37bda27a2b838408751daeaf9d",
-            "FileCRC": 982897872,
-            "FileSize": 271617,
+            "FileName": "47fd61cd3c3681d1fe54d77e644fe709.bundle",
+            "FileHash": "47fd61cd3c3681d1fe54d77e644fe709",
+            "FileCRC": 1653535956,
+            "FileSize": 271605,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49907,10 +49921,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_24_farmland_4.bundle",
-            "FileName": "e25190850a7ceba15a7d60cee8d4c2ca.bundle",
-            "FileHash": "e25190850a7ceba15a7d60cee8d4c2ca",
-            "FileCRC": 2362657841,
-            "FileSize": 315863,
+            "FileName": "3754ee772a434b8a0ba90a7111c3fcb6.bundle",
+            "FileHash": "3754ee772a434b8a0ba90a7111c3fcb6",
+            "FileCRC": 2132999353,
+            "FileSize": 315848,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -49991,10 +50005,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_25_port_1.bundle",
-            "FileName": "21ba22a44dd935459f253ac879ce2b5b.bundle",
-            "FileHash": "21ba22a44dd935459f253ac879ce2b5b",
-            "FileCRC": 368751020,
-            "FileSize": 184602,
+            "FileName": "e20776d8b1edea90cdca25586ae169f5.bundle",
+            "FileHash": "e20776d8b1edea90cdca25586ae169f5",
+            "FileCRC": 228503887,
+            "FileSize": 184594,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50135,10 +50149,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_27_port_3.bundle",
-            "FileName": "f0b57c0f74c01f65b9f00daa50cf5646.bundle",
-            "FileHash": "f0b57c0f74c01f65b9f00daa50cf5646",
-            "FileCRC": 3903056518,
-            "FileSize": 216758,
+            "FileName": "6d8c25f2da1d752ba89d9bd9e95d9c9a.bundle",
+            "FileHash": "6d8c25f2da1d752ba89d9bd9e95d9c9a",
+            "FileCRC": 2263907586,
+            "FileSize": 216750,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50209,10 +50223,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_28_port_4.bundle",
-            "FileName": "b2dc3a204fed35719555d20756b1439e.bundle",
-            "FileHash": "b2dc3a204fed35719555d20756b1439e",
-            "FileCRC": 138883789,
-            "FileSize": 227625,
+            "FileName": "8dc05f17ef7d672be5943e9047faa739.bundle",
+            "FileHash": "8dc05f17ef7d672be5943e9047faa739",
+            "FileCRC": 3947040572,
+            "FileSize": 227615,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50287,10 +50301,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_29_waterpark_1.bundle",
-            "FileName": "232dc802a5eab7d3e3853fbb3327ad56.bundle",
-            "FileHash": "232dc802a5eab7d3e3853fbb3327ad56",
-            "FileCRC": 3351994545,
-            "FileSize": 251823,
+            "FileName": "091f4e7bd4c51def2513e38df72815ac.bundle",
+            "FileHash": "091f4e7bd4c51def2513e38df72815ac",
+            "FileCRC": 3593164391,
+            "FileSize": 251813,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50365,10 +50379,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_30_waterpark_2.bundle",
-            "FileName": "9e0a30301004234eaa106b5e9b1c9196.bundle",
-            "FileHash": "9e0a30301004234eaa106b5e9b1c9196",
-            "FileCRC": 2919958424,
-            "FileSize": 243294,
+            "FileName": "45c1c2051ba891dae72e66079f9dec69.bundle",
+            "FileHash": "45c1c2051ba891dae72e66079f9dec69",
+            "FileCRC": 2618732716,
+            "FileSize": 243281,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50444,10 +50458,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_31_waterpark_3.bundle",
-            "FileName": "9d6dda7c333e2669f6dae857bf4fa072.bundle",
-            "FileHash": "9d6dda7c333e2669f6dae857bf4fa072",
-            "FileCRC": 1088090719,
-            "FileSize": 237172,
+            "FileName": "95000264600f9d8d0cb562b7d17d778f.bundle",
+            "FileHash": "95000264600f9d8d0cb562b7d17d778f",
+            "FileCRC": 194104666,
+            "FileSize": 237165,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50515,10 +50529,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_32_waterpark_4.bundle",
-            "FileName": "f2c7d4fdbcf3c08cd21f32afc0d11cb8.bundle",
-            "FileHash": "f2c7d4fdbcf3c08cd21f32afc0d11cb8",
-            "FileCRC": 99653036,
-            "FileSize": 272617,
+            "FileName": "aac0ddfea2fecfd7cfe3d30435606971.bundle",
+            "FileHash": "aac0ddfea2fecfd7cfe3d30435606971",
+            "FileCRC": 38913389,
+            "FileSize": 272606,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50591,10 +50605,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_33_spacestation_1.bundle",
-            "FileName": "3c6f692e3d6f25bc72e9f405d7a4b5f9.bundle",
-            "FileHash": "3c6f692e3d6f25bc72e9f405d7a4b5f9",
-            "FileCRC": 1325936527,
-            "FileSize": 226576,
+            "FileName": "d7ee421d7e486012933795ad8f03d618.bundle",
+            "FileHash": "d7ee421d7e486012933795ad8f03d618",
+            "FileCRC": 845387415,
+            "FileSize": 226563,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50673,10 +50687,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_34_spacestation_2.bundle",
-            "FileName": "7b509b8fb54ac7cc73be97b6a923826c.bundle",
-            "FileHash": "7b509b8fb54ac7cc73be97b6a923826c",
-            "FileCRC": 1157761390,
-            "FileSize": 222547,
+            "FileName": "4e523b53cc50d026f158485a54289a62.bundle",
+            "FileHash": "4e523b53cc50d026f158485a54289a62",
+            "FileCRC": 4005980356,
+            "FileSize": 222534,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50753,10 +50767,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_35_spacestation_3.bundle",
-            "FileName": "e7dd723a9b596f598446b3b99795ffb9.bundle",
-            "FileHash": "e7dd723a9b596f598446b3b99795ffb9",
-            "FileCRC": 1864146850,
-            "FileSize": 187994,
+            "FileName": "56f0ea9efe534253ff02deb6a29a5c72.bundle",
+            "FileHash": "56f0ea9efe534253ff02deb6a29a5c72",
+            "FileCRC": 1012133672,
+            "FileSize": 187981,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50830,10 +50844,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_36_spacestation_4.bundle",
-            "FileName": "4a88db4e6a7b97c348d415693e9c7e1f.bundle",
-            "FileHash": "4a88db4e6a7b97c348d415693e9c7e1f",
-            "FileCRC": 4264001275,
-            "FileSize": 224276,
+            "FileName": "9f687782a83cdf85bb38889d0a9f5de4.bundle",
+            "FileHash": "9f687782a83cdf85bb38889d0a9f5de4",
+            "FileCRC": 2178353798,
+            "FileSize": 224265,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50909,10 +50923,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_37_chinagreatwall_1.bundle",
-            "FileName": "46307706dfb8ce77b2f8b800c7bd1dec.bundle",
-            "FileHash": "46307706dfb8ce77b2f8b800c7bd1dec",
-            "FileCRC": 2943494976,
-            "FileSize": 214123,
+            "FileName": "9d19ea7789184634fb0d59a005bb4baa.bundle",
+            "FileHash": "9d19ea7789184634fb0d59a005bb4baa",
+            "FileCRC": 792333532,
+            "FileSize": 214109,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -50988,10 +51002,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_38_chinagreatwall_2.bundle",
-            "FileName": "4e3e1c51e1e3b951091bd1782e7eed5b.bundle",
-            "FileHash": "4e3e1c51e1e3b951091bd1782e7eed5b",
-            "FileCRC": 4053372984,
-            "FileSize": 252575,
+            "FileName": "b6617e91f15ab793c609ce14b7fa6d7c.bundle",
+            "FileHash": "b6617e91f15ab793c609ce14b7fa6d7c",
+            "FileCRC": 3153821861,
+            "FileSize": 252569,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -51073,10 +51087,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_39_chinagreatwall_3.bundle",
-            "FileName": "e1f19d8c3795f238df189c10f1a85b8e.bundle",
-            "FileHash": "e1f19d8c3795f238df189c10f1a85b8e",
-            "FileCRC": 1496027627,
-            "FileSize": 211500,
+            "FileName": "b0c4a2e895505925637688e87608e242.bundle",
+            "FileHash": "b0c4a2e895505925637688e87608e242",
+            "FileCRC": 1535618285,
+            "FileSize": 211497,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -51154,10 +51168,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_40_chinagreatwall_4.bundle",
-            "FileName": "75c143e5fb86307eb6cd7956f0f9726b.bundle",
-            "FileHash": "75c143e5fb86307eb6cd7956f0f9726b",
-            "FileCRC": 3142075566,
-            "FileSize": 201032,
+            "FileName": "5934cade7486fd593d321d869bd8a715.bundle",
+            "FileHash": "5934cade7486fd593d321d869bd8a715",
+            "FileCRC": 1427125717,
+            "FileSize": 201025,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -52517,40 +52531,15 @@
             ]
         },
         {
-            "BundleName": "hostpackage_assets__game_host_ui.bundle",
-            "FileName": "2258586124b2aae56f9511b19b70dcd4.bundle",
-            "FileHash": "2258586124b2aae56f9511b19b70dcd4",
-            "FileCRC": 2104552302,
-            "FileSize": 2545,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "ReferenceBundles": [
-                "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
-                "hostpackage_assets__game_host_dlc_env_boosteroffershield.bundle",
-                "hostpackage_assets__game_host_ui_popups.bundle"
-            ],
-            "BundleContents": [
-                {
-                    "AssetPath": "Assets/_Game/Host/UI/BoosterOfferTexture.asset",
-                    "AssetGUID": "035912779cab8064da956fad43b234fc"
-                },
-                {
-                    "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
-                    "AssetGUID": "9e0d1ec86cb397f4f8321b29020fd2ad"
-                }
-            ]
-        },
-        {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "FileName": "4f75efaf40f0e23c6622e8bdd9a763e2.bundle",
-            "FileHash": "4f75efaf40f0e23c6622e8bdd9a763e2",
-            "FileCRC": 1440668221,
-            "FileSize": 186949,
+            "FileName": "96b250f89f9f88d21e51e8328c997e26.bundle",
+            "FileHash": "96b250f89f9f88d21e51e8328c997e26",
+            "FileCRC": 3878644873,
+            "FileSize": 186953,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_assets__game_host_ui.bundle",
+                "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_animated.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_misc.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_textures_(mobile).bundle",
@@ -52695,6 +52684,27 @@
                 {
                     "AssetPath": "Assets/_Game/Host/Settings/host.settings.vehicle.asset",
                     "AssetGUID": "f8966605f11c14c6e9a3c7fcacba2a63"
+                }
+            ]
+        },
+        {
+            "BundleName": "hostpackage_share_assets__game_host_ui.bundle",
+            "FileName": "627de5c441cd3de028adddeed1d045d0.bundle",
+            "FileHash": "627de5c441cd3de028adddeed1d045d0",
+            "FileCRC": 3410144639,
+            "FileSize": 1726,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
+                "hostpackage_assets__game_host_dlc_env_boosteroffershield.bundle",
+                "hostpackage_assets__game_host_ui_popups.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
+                    "AssetGUID": "9e0d1ec86cb397f4f8321b29020fd2ad"
                 }
             ]
         },
@@ -55942,10 +55952,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_props.bundle",
-            "FileName": "fb18d3c90b4f4902daa25939953a833c.bundle",
-            "FileHash": "fb18d3c90b4f4902daa25939953a833c",
-            "FileCRC": 4279824952,
-            "FileSize": 901706,
+            "FileName": "76da7c3a67ce8afd7d6b47ce3c28019f.bundle",
+            "FileHash": "76da7c3a67ce8afd7d6b47ce3c28019f",
+            "FileCRC": 1444585376,
+            "FileSize": 901828,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -61251,10 +61261,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_remaster_cfxr_assets_graphics.bundle",
-            "FileName": "6aaed41673a5a18d0576e407165cecee.bundle",
-            "FileHash": "6aaed41673a5a18d0576e407165cecee",
-            "FileCRC": 278896506,
-            "FileSize": 66646,
+            "FileName": "4861a0e1b0207779e98dae63a31d2fb5.bundle",
+            "FileHash": "4861a0e1b0207779e98dae63a31d2fb5",
+            "FileCRC": 1859155019,
+            "FileSize": 66649,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -61307,8 +61317,7 @@
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_remaster_cfxr_prefabs_explosions.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_remaster_cfxr_prefabs_explosions_variants.bundle",
                 "hostpackage_share_assets__game_res_particles_prefabs.bundle",
-                "hostpackage_share_assets__game_res_racemaster_map_particles_prefabs.bundle",
-                "hostpackage_share_assets__game_res_ui_particles_prefabs.bundle"
+                "hostpackage_share_assets__game_res_racemaster_map_particles_prefabs.bundle"
             ],
             "BundleContents": [
                 {
@@ -61908,10 +61917,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_maps_model_1.bundle",
-            "FileName": "54ba2c0fe9d6d849d331f84182cbb943.bundle",
-            "FileHash": "54ba2c0fe9d6d849d331f84182cbb943",
-            "FileCRC": 3340554391,
-            "FileSize": 1317350,
+            "FileName": "904c29b9436fe3bea0a69c967b567dbb.bundle",
+            "FileHash": "904c29b9436fe3bea0a69c967b567dbb",
+            "FileCRC": 809471457,
+            "FileSize": 1060445,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -62050,10 +62059,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_maps_model2.bundle",
-            "FileName": "df63586563d0478ff07ae64fc6e6661b.bundle",
-            "FileHash": "df63586563d0478ff07ae64fc6e6661b",
-            "FileCRC": 2205248929,
-            "FileSize": 2024968,
+            "FileName": "e189d04f145a4c88e2a53f4a5336d7ef.bundle",
+            "FileHash": "e189d04f145a4c88e2a53f4a5336d7ef",
+            "FileCRC": 2135300564,
+            "FileSize": 1846704,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -66615,10 +66624,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_racemaster_map_particles_prefabs.bundle",
-            "FileName": "b5877fe4d5ef0e92c6106f75de3323f0.bundle",
-            "FileHash": "b5877fe4d5ef0e92c6106f75de3323f0",
-            "FileCRC": 3200794704,
-            "FileSize": 29321,
+            "FileName": "cf76760c6b48a0005ad85737c94c22e7.bundle",
+            "FileHash": "cf76760c6b48a0005ad85737c94c22e7",
+            "FileCRC": 3607358237,
+            "FileSize": 29320,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -70673,14 +70682,13 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_ui_particles_prefabs.bundle",
-            "FileName": "7a842263d2b7846633b55d5fe783f370.bundle",
-            "FileHash": "7a842263d2b7846633b55d5fe783f370",
-            "FileCRC": 2054087567,
-            "FileSize": 32184,
+            "FileName": "2ad5f6d94470df9bfc44c066a2c8880a.bundle",
+            "FileHash": "2ad5f6d94470df9bfc44c066a2c8880a",
+            "FileCRC": 3321936502,
+            "FileSize": 30920,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_remaster_cfxr_assets_graphics.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
                 "hostpackage_unityshaders.bundle"
             ],
@@ -70693,10 +70701,6 @@
                 {
                     "AssetPath": "Assets/_Game/Res/UI/Particles/Prefabs/CUP.prefab",
                     "AssetGUID": "93e6c6e69b3ec9a47a5a32d1976c0a3e"
-                },
-                {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Prefabs/UPGRADE_BUTTON.prefab",
-                    "AssetGUID": "aff9b2df123cb7549ae49c06186d7abb"
                 }
             ]
         },
