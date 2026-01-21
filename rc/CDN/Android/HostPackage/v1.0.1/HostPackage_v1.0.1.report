@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "6000.0.64f1",
-        "BuildDate": "1/21/2026 2:42:16 PM",
-        "BuildSeconds": 37,
+        "BuildDate": "1/21/2026 3:24:54 PM",
+        "BuildSeconds": 59,
         "BuildTarget": 13,
         "BuildPipeline": "CustomBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "HostPackage",
         "BuildPackageVersion": "v1.0.1",
-        "BuildPackageNote": "1/21/2026 2:41:37 PM",
+        "BuildPackageNote": "1/21/2026 3:23:53 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -17,7 +17,7 @@
         "IncludeAssetGUID": true,
         "AutoCollectShaders": true,
         "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
-        "ClearBuildCacheFiles": false,
+        "ClearBuildCacheFiles": true,
         "UseAssetDependencyDB": true,
         "EnableSharePackRule": true,
         "SingleReferencedPackAlone": true,
@@ -35,9 +35,9 @@
         "BuiltinShadersBundleName": "hostpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
         "AssetFileTotalCount": 2577,
-        "MainAssetTotalCount": 134,
+        "MainAssetTotalCount": 133,
         "AllBundleTotalCount": 278,
-        "AllBundleTotalSize": 119406391,
+        "AllBundleTotalSize": 119841442,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -46924,6 +46924,7 @@
                 }
             ],
             "DependBundles": [
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_res_racemaster_ui_bg_label.bundle",
                 "hostpackage_share_assets__game_res_racemaster_ui_font.bundle",
                 "hostpackage_share_assets__game_res_ui.bundle",
@@ -46934,7 +46935,6 @@
                 "hostpackage_share_assets__game_res_ui_icon.bundle",
                 "hostpackage_share_assets__game_res_ui_icons.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
-                "hostpackage_share_assets__game_textures.bundle",
                 "hostpackage_unityshaders.bundle"
             ]
         },
@@ -47489,6 +47489,7 @@
                 }
             ],
             "DependBundles": [
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_cfx_prefabs_(mobile)_smoke.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_animated.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_misc.bundle",
@@ -47509,7 +47510,6 @@
                 "hostpackage_share_assets__game_res_ui_old_ui.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_prefabs.bundle",
-                "hostpackage_share_assets__game_textures.bundle",
                 "hostpackage_unityshaders.bundle"
             ]
         },
@@ -47850,43 +47850,178 @@
             ]
         },
         {
-            "Address": "AdditiveMobile_Scroll01",
-            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/AdditiveMobile_Scroll01.shader",
-            "AssetGUID": "772c876c2069d0b488fb2840de6e4f6b",
+            "Address": "IconsAtlas",
+            "AssetPath": "Assets/_Game/Textures/IconsAtlas.spriteatlasv2",
+            "AssetGUID": "985d6915dedad4c46b7a6de00ca43ed1",
             "AssetTags": [],
-            "MainBundleName": "hostpackage_unityshaders.bundle",
-            "MainBundleSize": 1563994,
+            "MainBundleName": "hostpackage_assets__game_textures.bundle",
+            "MainBundleSize": 1041660,
             "DependAssets": [
                 {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Gradient_greyscale.PNG",
-                    "AssetGUID": "789405d2635550c4c9df257b8e484c62"
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_1.png",
+                    "AssetGUID": "c743d2b72cff14a4dad3426b3b59d43f"
                 },
                 {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/GradientCenter03.png",
-                    "AssetGUID": "03e4ee8d0b5f45045bb12e2930ed4058"
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_2.png",
+                    "AssetGUID": "54b3bcdef43b61843a20a519f37e7223"
                 },
                 {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise01.png",
-                    "AssetGUID": "82f4b06147155c54da475b309b9e24fa"
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_3.png",
+                    "AssetGUID": "7e6413c5d75992b4e8cf6aaeb1d577dc"
                 },
                 {
-                    "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Noise02.png",
-                    "AssetGUID": "28c7aad1372ff114b90d330f8a2dd938"
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_4.png",
+                    "AssetGUID": "88b6265e059ab3b46a66c82d35711fba"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_5.png",
+                    "AssetGUID": "54fd8323a1b7e9340bb7f21b40a9bce9"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_6.png",
+                    "AssetGUID": "831fac73c1c67a24a876619214204f80"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/avatarboss/avatar_boss_7.png",
+                    "AssetGUID": "cc02fc48334b32f4391bab435bd4689d"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Gold.png",
+                    "AssetGUID": "368af2c9e46a32e4c88f0cc52f383df9"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Neon_0.png",
+                    "AssetGUID": "be7b861e57d23dd4d89eb9d830ddaa13"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Neon_1.png",
+                    "AssetGUID": "b976f815e77fa7e49ac65057df4f1a7b"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Neon_2.png",
+                    "AssetGUID": "fe6488e4166bd414a87e1b040d935dc5"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Neon_3.png",
+                    "AssetGUID": "5ad0817cb950bd847964189df059cd67"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Neon_4.png",
+                    "AssetGUID": "9ba2c1284a8e0224e8bb06a88030e4a3"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_NOZ.png",
+                    "AssetGUID": "41cb28b3df707cd499ea3aa1abc8c857"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_1.png",
+                    "AssetGUID": "1e806962a8af3444ba1cb66d427a6088"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_101.png",
+                    "AssetGUID": "4867fa1c601bcf444ae7a1ba593ad9b5"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_102.png",
+                    "AssetGUID": "f6220f6cb1ae24c479613aec345a54bd"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_2.png",
+                    "AssetGUID": "18c09142a946e4040b0fc88eddb7f22e"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_3.png",
+                    "AssetGUID": "cdeb6aa069ec85644b41d4f76d275d70"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_4.png",
+                    "AssetGUID": "df3b4a412d089664a9f54738b454697a"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_5.png",
+                    "AssetGUID": "c8e9208d5210a1e46b45020d0a74c016"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_51.png",
+                    "AssetGUID": "2ccca1c73d16e314788d328eae693f03"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_6.png",
+                    "AssetGUID": "83d4983289243c046aacb490a28e5d17"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Paint_7.png",
+                    "AssetGUID": "c588abbb0c7b98c47b8479940a72d10c"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_Shield.png",
+                    "AssetGUID": "12112abc0f1718f4bafb330c11af830a"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_money_1.png",
+                    "AssetGUID": "9d8e58b387516454e9c394f8d6e8cf31"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_money_2.png",
+                    "AssetGUID": "d55aa2ca9688bbf488c9bcce8645133a"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_money_3.png",
+                    "AssetGUID": "2ac7dfe8994f59e43a8c8b035ac158dd"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_noz_1.png",
+                    "AssetGUID": "1ae0f72f59d0aa6468e7bfa77b553c85"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_noz_2.png",
+                    "AssetGUID": "fbd921693ca87404caeb7761279ce771"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_noz_3.png",
+                    "AssetGUID": "a29fb59dcb2073e4a84c580bb2231ece"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_shield_1.png",
+                    "AssetGUID": "cbf2c6775b0d6de4f9680f5e4fcc68ef"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_shield_2.png",
+                    "AssetGUID": "6537d64563ea95d47bee1eb4b448281a"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/icon_store_shield_3.png",
+                    "AssetGUID": "77c3d6e202fa7c94199cbf0d032eb779"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_bg_Neon.png",
+                    "AssetGUID": "2a0e823b69419714ea0bb5d1691fffc7"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_bg_Paint.png",
+                    "AssetGUID": "82240cd89e62c5d43bd5b8779f5bf21c"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_bg_Tire.png",
+                    "AssetGUID": "be7ba39a2111bf94e862654199e0d7e0"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_fill_Neon.png",
+                    "AssetGUID": "3243ad36e67dc824cb981274121e36e4"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_fill_Paint.png",
+                    "AssetGUID": "2bfad52f67b0bd64b843a1e8a383b660"
+                },
+                {
+                    "AssetPath": "Assets/_Game/Res/UI/Icons/race_reward_fill_Tire.png",
+                    "AssetGUID": "7ca1b0d3e5f44514493285cbbbf9dbb8"
                 }
             ],
             "DependBundles": [
-                "hostpackage_share_assets__game_res_ui_particles_materials.bundle"
+                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
             ]
-        },
-        {
-            "Address": "Blend_CenterGlow",
-            "AssetPath": "Assets/_Game/Res/UI/Particles/Shaders/Blend_CenterGlow.shader",
-            "AssetGUID": "2c3615ef8d99cfd4cad329669edd2828",
-            "AssetTags": [],
-            "MainBundleName": "hostpackage_unityshaders.bundle",
-            "MainBundleSize": 1563994,
-            "DependAssets": [],
-            "DependBundles": []
         }
     ],
     "BundleInfos": [
@@ -52532,13 +52667,14 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "FileName": "96b250f89f9f88d21e51e8328c997e26.bundle",
-            "FileHash": "96b250f89f9f88d21e51e8328c997e26",
-            "FileCRC": 3878644873,
+            "FileName": "5034ad844bb3a11a46c97ef41da61c5b.bundle",
+            "FileHash": "5034ad844bb3a11a46c97ef41da61c5b",
+            "FileCRC": 1127967561,
             "FileSize": 186953,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_host_ui.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_animated.bundle",
                 "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_(legacy)_materials_(mobile)_misc.bundle",
@@ -52560,7 +52696,6 @@
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_materials.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
-                "hostpackage_share_assets__game_textures.bundle",
                 "hostpackage_share_assets_textmesh_pro_fonts.bundle",
                 "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
                 "hostpackage_unityshaders.bundle"
@@ -52618,6 +52753,31 @@
                 {
                     "AssetPath": "Assets/_Game/Host/UI/Popups/popup.not.enough.money.prefab",
                     "AssetGUID": "9234cf1e232b5bc46bc746cdb0519c79"
+                }
+            ]
+        },
+        {
+            "BundleName": "hostpackage_assets__game_textures.bundle",
+            "FileName": "732a9a12bb3ec77c7647871c709ea84e.bundle",
+            "FileHash": "732a9a12bb3ec77c7647871c709ea84e",
+            "FileCRC": 3728896609,
+            "FileSize": 1041660,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
+            ],
+            "ReferenceBundles": [
+                "hostpackage_assets__game_host_ui_popups.bundle",
+                "hostpackage_share_assets__game_res_ui.bundle",
+                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Game/Textures/IconsAtlas.spriteatlasv2",
+                    "AssetGUID": "985d6915dedad4c46b7a6de00ca43ed1"
                 }
             ]
         },
@@ -55952,10 +56112,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_props.bundle",
-            "FileName": "76da7c3a67ce8afd7d6b47ce3c28019f.bundle",
-            "FileHash": "76da7c3a67ce8afd7d6b47ce3c28019f",
-            "FileCRC": 1444585376,
-            "FileSize": 901828,
+            "FileName": "fb18d3c90b4f4902daa25939953a833c.bundle",
+            "FileHash": "fb18d3c90b4f4902daa25939953a833c",
+            "FileCRC": 4279824952,
+            "FileSize": 901706,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -61261,10 +61421,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_jmo_assets_cartoon_fx_remaster_cfxr_assets_graphics.bundle",
-            "FileName": "4861a0e1b0207779e98dae63a31d2fb5.bundle",
-            "FileHash": "4861a0e1b0207779e98dae63a31d2fb5",
-            "FileCRC": 1859155019,
-            "FileSize": 66649,
+            "FileName": "6aaed41673a5a18d0576e407165cecee.bundle",
+            "FileHash": "6aaed41673a5a18d0576e407165cecee",
+            "FileCRC": 278896506,
+            "FileSize": 66646,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -61917,10 +62077,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_maps_model_1.bundle",
-            "FileName": "904c29b9436fe3bea0a69c967b567dbb.bundle",
-            "FileHash": "904c29b9436fe3bea0a69c967b567dbb",
-            "FileCRC": 809471457,
-            "FileSize": 1060445,
+            "FileName": "54ba2c0fe9d6d849d331f84182cbb943.bundle",
+            "FileHash": "54ba2c0fe9d6d849d331f84182cbb943",
+            "FileCRC": 3340554391,
+            "FileSize": 1317350,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -62059,10 +62219,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_maps_model2.bundle",
-            "FileName": "e189d04f145a4c88e2a53f4a5336d7ef.bundle",
-            "FileHash": "e189d04f145a4c88e2a53f4a5336d7ef",
-            "FileCRC": 2135300564,
-            "FileSize": 1846704,
+            "FileName": "df63586563d0478ff07ae64fc6e6661b.bundle",
+            "FileHash": "df63586563d0478ff07ae64fc6e6661b",
+            "FileCRC": 2205248929,
+            "FileSize": 2024968,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -69767,13 +69927,13 @@
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_res_racemaster_ui_font.bundle",
                 "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
                 "hostpackage_share_assets__game_res_ui_bg_label.bundle",
                 "hostpackage_share_assets__game_res_ui_button.bundle",
                 "hostpackage_share_assets__game_res_ui_icon.bundle",
-                "hostpackage_share_assets__game_res_ui_icons.bundle",
-                "hostpackage_share_assets__game_textures.bundle"
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
             ],
             "ReferenceBundles": [],
             "BundleContents": [
@@ -69845,21 +70005,21 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
-            "FileName": "559bd695b66cb9440667b82bc234fbd2.bundle",
-            "FileHash": "559bd695b66cb9440667b82bc234fbd2",
-            "FileCRC": 1085506537,
+            "FileName": "342213dec0826e9803a2d8152a942371.bundle",
+            "FileHash": "342213dec0826e9803a2d8152a942371",
+            "FileCRC": 567031694,
             "FileSize": 10645,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_share_assets__game_res_ui_icons.bundle",
-                "hostpackage_share_assets__game_textures.bundle"
+                "hostpackage_assets__game_textures.bundle",
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
             ],
             "ReferenceBundles": [
                 "hostpackage_assets__game_host_ui_popups.bundle",
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_res_ui.bundle",
-                "hostpackage_share_assets__game_res_ui_icons.bundle",
-                "hostpackage_share_assets__game_textures.bundle"
+                "hostpackage_share_assets__game_res_ui_icons.bundle"
             ],
             "BundleContents": [
                 {
@@ -70281,21 +70441,21 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_ui_icons.bundle",
-            "FileName": "49f1092cbb313ed7a4437cf7f58ff013.bundle",
-            "FileHash": "49f1092cbb313ed7a4437cf7f58ff013",
-            "FileCRC": 3070699579,
+            "FileName": "7f5f518b34ca7ab06a7650efa6d76274.bundle",
+            "FileHash": "7f5f518b34ca7ab06a7650efa6d76274",
+            "FileCRC": 1295150103,
             "FileSize": 14565,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
-                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
-                "hostpackage_share_assets__game_textures.bundle"
+                "hostpackage_assets__game_textures.bundle",
+                "hostpackage_share_assets__game_res_ui_avatarboss.bundle"
             ],
             "ReferenceBundles": [
                 "hostpackage_assets__game_host_ui_popups.bundle",
+                "hostpackage_assets__game_textures.bundle",
                 "hostpackage_share_assets__game_res_ui.bundle",
-                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
-                "hostpackage_share_assets__game_textures.bundle"
+                "hostpackage_share_assets__game_res_ui_avatarboss.bundle"
             ],
             "BundleContents": [
                 {
@@ -70777,31 +70937,6 @@
             ]
         },
         {
-            "BundleName": "hostpackage_share_assets__game_textures.bundle",
-            "FileName": "e2863f08579ae2d2c9b513b0e1441de9.bundle",
-            "FileHash": "e2863f08579ae2d2c9b513b0e1441de9",
-            "FileCRC": 698206012,
-            "FileSize": 1041668,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [
-                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
-                "hostpackage_share_assets__game_res_ui_icons.bundle"
-            ],
-            "ReferenceBundles": [
-                "hostpackage_assets__game_host_ui_popups.bundle",
-                "hostpackage_share_assets__game_res_ui.bundle",
-                "hostpackage_share_assets__game_res_ui_avatarboss.bundle",
-                "hostpackage_share_assets__game_res_ui_icons.bundle"
-            ],
-            "BundleContents": [
-                {
-                    "AssetPath": "Assets/_Game/Textures/IconsAtlas.spriteatlasv2",
-                    "AssetGUID": "985d6915dedad4c46b7a6de00ca43ed1"
-                }
-            ]
-        },
-        {
             "BundleName": "hostpackage_share_assets_textmesh_pro_fonts.bundle",
             "FileName": "3e4bb7304f6500e4e29a6b0c0449f4a8.bundle",
             "FileHash": "3e4bb7304f6500e4e29a6b0c0449f4a8",
@@ -70849,10 +70984,10 @@
         },
         {
             "BundleName": "hostpackage_unityshaders.bundle",
-            "FileName": "4ef87208ef6d81384ddab095649568cc.bundle",
-            "FileHash": "4ef87208ef6d81384ddab095649568cc",
-            "FileCRC": 652002597,
-            "FileSize": 1563994,
+            "FileName": "c760f7dc5bad9920e84cc86f33be8aa9.bundle",
+            "FileHash": "c760f7dc5bad9920e84cc86f33be8aa9",
+            "FileCRC": 2850229178,
+            "FileSize": 1564009,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
