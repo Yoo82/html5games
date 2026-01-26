@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "6000.0.64f1",
-        "BuildDate": "1/26/2026 12:45:47 PM",
-        "BuildSeconds": 56,
+        "BuildDate": "1/26/2026 12:51:30 PM",
+        "BuildSeconds": 55,
         "BuildTarget": 13,
         "BuildPipeline": "CustomBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "HostPackage",
         "BuildPackageVersion": "v1.0.0",
-        "BuildPackageNote": "1/26/2026 12:44:50 PM",
+        "BuildPackageNote": "1/26/2026 12:50:32 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 2566,
         "MainAssetTotalCount": 134,
         "AllBundleTotalCount": 294,
-        "AllBundleTotalSize": 118682573,
+        "AllBundleTotalSize": 118683038,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -46482,7 +46482,7 @@
             "AssetGUID": "61d2935858b04c845bec44bc25c693fa",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
@@ -46581,7 +46581,7 @@
             "AssetGUID": "94c510d43cf4bb5488de631733141812",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p8 add.mat",
@@ -46712,7 +46712,7 @@
             "AssetGUID": "012248d91ea7bec41a58bf10b1eb68d1",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46775,7 +46775,7 @@
             "AssetGUID": "02a9f241561e6d643ae7233622ed749d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46867,7 +46867,7 @@
             "AssetGUID": "5bf746699411ed6439e4c217dff1c896",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -46969,7 +46969,7 @@
             "AssetGUID": "45920fc3ece4db84fb0ad8150d12372d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p4 add nosp.mat",
@@ -47129,7 +47129,7 @@
             "AssetGUID": "c95314e12457b5a468f1633ac31105e5",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47174,7 +47174,7 @@
             "AssetGUID": "933c93ad10d3930499fbdd79e90ceae5",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/UI/Icons/icon_Paint_2.png",
@@ -47387,7 +47387,7 @@
             "AssetGUID": "932315dede66ac249acd988d1535cbf0",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/SFX/AudioClip/countdown.wav",
@@ -47425,7 +47425,7 @@
             "AssetGUID": "674d2692f6ad76a458126a4d25d11952",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47542,7 +47542,7 @@
             "AssetGUID": "4759ef531bb33b546b1c3ab7abb4ab5d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47637,7 +47637,7 @@
             "AssetGUID": "5034d17effdc51d4597832d38f718505",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -47675,7 +47675,7 @@
             "AssetGUID": "9234cf1e232b5bc46bc746cdb0519c79",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189124,
+            "MainBundleSize": 189589,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -52401,10 +52401,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "FileName": "ee8ecc3d164997c28f2f3e2a410d9a10.bundle",
-            "FileHash": "ee8ecc3d164997c28f2f3e2a410d9a10",
-            "FileCRC": 1170471184,
-            "FileSize": 189124,
+            "FileName": "522720430f0e2644cb63e67ae531dcaf.bundle",
+            "FileHash": "522720430f0e2644cb63e67ae531dcaf",
+            "FileCRC": 1176205264,
+            "FileSize": 189589,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [

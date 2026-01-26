@@ -10,7 +10,7 @@
     "BuildPipeline": "CustomBuildPipeline",
     "PackageName": "HostPackage",
     "PackageVersion": "v1.0.0",
-    "PackageNote": "1/26/2026 12:44:50 PM",
+    "PackageNote": "1/26/2026 12:50:32 PM",
     "AssetList": [
         {
             "Address": "BoosterOfferNOZ",
@@ -7768,10 +7768,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "UnityCRC": 465235380,
-            "FileHash": "ee8ecc3d164997c28f2f3e2a410d9a10",
-            "FileCRC": 1170471184,
-            "FileSize": 189124,
+            "UnityCRC": 2971876004,
+            "FileHash": "522720430f0e2644cb63e67ae531dcaf",
+            "FileCRC": 1176205264,
+            "FileSize": 189589,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
