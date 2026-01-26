@@ -44,7 +44,6 @@
     <type fullname="RespawnCheckPoint" preserve="all" />
     <type fullname="Sample.Settings.AtlasSettings" preserve="all" />
     <type fullname="TurnOnOffObject" preserve="all" />
-    <type fullname="TweenAlpha" preserve="all" />
     <type fullname="TweenPosition" preserve="all" />
     <type fullname="TweenRotation" preserve="all" />
     <type fullname="TweenScale" preserve="all" />
@@ -72,6 +71,7 @@
     <type fullname="UIResourcesBar" preserve="all" />
     <type fullname="UIRewardItems" preserve="all" />
     <type fullname="UIStarGrid" preserve="all" />
+    <type fullname="UITweenAlpha" preserve="all" />
   </assembly>
   <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CartoonFX.CFXR_Effect" preserve="all" />

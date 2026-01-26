@@ -10,7 +10,7 @@
     "BuildPipeline": "CustomBuildPipeline",
     "PackageName": "HostPackage",
     "PackageVersion": "v1.0.0",
-    "PackageNote": "1/22/2026 11:47:50 AM",
+    "PackageNote": "1/26/2026 11:54:02 AM",
     "AssetList": [
         {
             "Address": "BoosterOfferNOZ",
@@ -3826,9 +3826,9 @@
     "BundleList": [
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffernoz.bundle",
-            "UnityCRC": 3336802479,
-            "FileHash": "c68418795dbff0cc2364d83839745d45",
-            "FileCRC": 2302729474,
+            "UnityCRC": 2061943279,
+            "FileHash": "fb26e95a252ddc07f0f7da676977f9b7",
+            "FileCRC": 4135869081,
             "FileSize": 47591,
             "Encrypted": false,
             "Tags": [],
@@ -3868,10 +3868,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_boosteroffershield.bundle",
-            "UnityCRC": 814175481,
-            "FileHash": "c2d4dbc82655ad639fd782f1bd4e806c",
-            "FileCRC": 198915029,
-            "FileSize": 37007,
+            "UnityCRC": 2486011447,
+            "FileHash": "fbe5227652240c06afb949f529389542",
+            "FileCRC": 2986184523,
+            "FileSize": 37014,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -3933,10 +3933,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_offer.bundle",
-            "UnityCRC": 3003061751,
-            "FileHash": "c5d19effbb299b141927d6ba365686b1",
-            "FileCRC": 792546961,
-            "FileSize": 29182,
+            "UnityCRC": 2263573214,
+            "FileHash": "cbb2cdbe296df7a205207cffd39e21e5",
+            "FileCRC": 368679737,
+            "FileSize": 29184,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4005,10 +4005,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_upgrade.bundle",
-            "UnityCRC": 129905998,
-            "FileHash": "14ce7bc64a9d69bd6a8af6b014979ab5",
-            "FileCRC": 179379572,
-            "FileSize": 55524,
+            "UnityCRC": 3708135336,
+            "FileHash": "49bbbcb0b8b17b224b5d932c9611cb9d",
+            "FileCRC": 2781466402,
+            "FileSize": 55530,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4164,10 +4164,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_02_amusementpark_2.bundle",
-            "UnityCRC": 4245892297,
-            "FileHash": "7a43d04526b1280950612a89cad46d76",
-            "FileCRC": 2913420170,
-            "FileSize": 208944,
+            "UnityCRC": 502782969,
+            "FileHash": "55be311e98fb9e9c843f02bb2538f759",
+            "FileCRC": 1705908712,
+            "FileSize": 208946,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4240,10 +4240,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_03_amusementpark_3.bundle",
-            "UnityCRC": 2295183833,
-            "FileHash": "59c519fb73433028b058bfc069e45269",
-            "FileCRC": 2280933772,
-            "FileSize": 227177,
+            "UnityCRC": 1339100856,
+            "FileHash": "91e0798316c21f47e8b6c8149c6c80b2",
+            "FileCRC": 1483576354,
+            "FileSize": 227184,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4315,10 +4315,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_04_amusementpark_4.bundle",
-            "UnityCRC": 2114849263,
-            "FileHash": "68bfe34a4f8a28dde3849fd0ec50c855",
-            "FileCRC": 2044296255,
-            "FileSize": 259794,
+            "UnityCRC": 2617616708,
+            "FileHash": "1ab617a349efa51650da8fb2b6b419e1",
+            "FileCRC": 2394894373,
+            "FileSize": 259793,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4381,10 +4381,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_05_candyland_1.bundle",
-            "UnityCRC": 2423020428,
-            "FileHash": "a6a9c6b3e140e04e10d298028c2c6632",
-            "FileCRC": 4053749260,
-            "FileSize": 231995,
+            "UnityCRC": 1320611935,
+            "FileHash": "653deb3d3783d61607ec0c9bcc52506d",
+            "FileCRC": 2562635232,
+            "FileSize": 232000,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4543,10 +4543,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_08_candyland_4.bundle",
-            "UnityCRC": 1383350443,
-            "FileHash": "169bc856b60a45d572179a6ccaba55b6",
-            "FileCRC": 959033814,
-            "FileSize": 295005,
+            "UnityCRC": 2645073936,
+            "FileHash": "a3414883e2200b5fa69cfab762c002a7",
+            "FileCRC": 2171388076,
+            "FileSize": 295008,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4836,10 +4836,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_12_megacity_4.bundle",
-            "UnityCRC": 3338495801,
-            "FileHash": "e3f5b12cc274f85a3020e44d27e020c8",
-            "FileCRC": 3027596871,
-            "FileSize": 262052,
+            "UnityCRC": 3945447780,
+            "FileHash": "f9c0077468ddec0b3688747f092868ed",
+            "FileCRC": 1661418845,
+            "FileSize": 262061,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4913,10 +4913,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_13_airport_1.bundle",
-            "UnityCRC": 35290544,
-            "FileHash": "c6935af438d7c30e217f26672d432bd9",
-            "FileCRC": 3980515813,
-            "FileSize": 242288,
+            "UnityCRC": 3730480475,
+            "FileHash": "5e878715b6ce726a770e4db746d95f10",
+            "FileCRC": 820223536,
+            "FileSize": 242286,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -4983,10 +4983,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_14_airport_2.bundle",
-            "UnityCRC": 79198840,
-            "FileHash": "17b5d60da6c94628e339027d4758f431",
-            "FileCRC": 1457660141,
-            "FileSize": 216301,
+            "UnityCRC": 509562842,
+            "FileHash": "9c45c95ab8854840a75672cb5dc92992",
+            "FileCRC": 882256694,
+            "FileSize": 216299,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5057,10 +5057,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_15_airport_3.bundle",
-            "UnityCRC": 4048135572,
-            "FileHash": "5ee532fa3b8d18f0d2ce6d464ea10a12",
-            "FileCRC": 4225484251,
-            "FileSize": 267731,
+            "UnityCRC": 2858311328,
+            "FileHash": "d76906f2e1c014080e18a576e8115969",
+            "FileCRC": 655222435,
+            "FileSize": 267730,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5209,10 +5209,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_17_nightcity_1.bundle",
-            "UnityCRC": 2865732500,
-            "FileHash": "af7989437bba52ecc698af50c071ee2f",
-            "FileCRC": 1871663407,
-            "FileSize": 279111,
+            "UnityCRC": 1835372476,
+            "FileHash": "13b04b1d0434bf35bd6e7ffba2001216",
+            "FileCRC": 3376140539,
+            "FileSize": 279110,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5282,10 +5282,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_18_nightcity_2.bundle",
-            "UnityCRC": 577931821,
-            "FileHash": "a88ac442785c4705c31b558775d46d6c",
-            "FileCRC": 3771984172,
-            "FileSize": 260739,
+            "UnityCRC": 1974431038,
+            "FileHash": "4845ffd9d683ca2256d2cdd309f5a430",
+            "FileCRC": 736016577,
+            "FileSize": 260743,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5359,10 +5359,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_19_nightcity_3.bundle",
-            "UnityCRC": 4007094944,
-            "FileHash": "7ce0c1acf9f6133d22ee57c97efcca55",
-            "FileCRC": 4001582192,
-            "FileSize": 257016,
+            "UnityCRC": 1800662052,
+            "FileHash": "85302707a05231fceee32b3da3bcf013",
+            "FileCRC": 630468366,
+            "FileSize": 257015,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5429,10 +5429,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_20_nightcity_4.bundle",
-            "UnityCRC": 929270667,
-            "FileHash": "9905e7c0eff394f717552ec0429d3c60",
-            "FileCRC": 3656954137,
-            "FileSize": 263810,
+            "UnityCRC": 402683991,
+            "FileHash": "06fc16243b210a808ca4ece2f12a88af",
+            "FileCRC": 2848211684,
+            "FileSize": 263818,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5741,10 +5741,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_24_farmland_4.bundle",
-            "UnityCRC": 2855972507,
-            "FileHash": "ca1684629c516515cecdeca947d26ae2",
-            "FileCRC": 3514578192,
-            "FileSize": 315924,
+            "UnityCRC": 2874824312,
+            "FileHash": "20b5746dae0577d7e85f78ee8c8ea948",
+            "FileCRC": 1364218969,
+            "FileSize": 315933,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5822,10 +5822,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_25_port_1.bundle",
-            "UnityCRC": 3600103120,
-            "FileHash": "dfe55f184886970bddaf01c84784757e",
-            "FileCRC": 2860456943,
-            "FileSize": 184663,
+            "UnityCRC": 2273537242,
+            "FileHash": "548626908528ccfd840486cab3cf4517",
+            "FileCRC": 4013074784,
+            "FileSize": 184667,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5889,10 +5889,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_26_port_2.bundle",
-            "UnityCRC": 2470940899,
-            "FileHash": "f8821169cab0d28ffc784547f84139a9",
-            "FileCRC": 4070475913,
-            "FileSize": 218503,
+            "UnityCRC": 55893258,
+            "FileHash": "6fddf38915a960892cb061e36f3bba51",
+            "FileCRC": 3225800269,
+            "FileSize": 218504,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -5960,10 +5960,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_27_port_3.bundle",
-            "UnityCRC": 4006661689,
-            "FileHash": "ffa226c9cf89e4121bb103062acc24d1",
-            "FileCRC": 3838912357,
-            "FileSize": 216850,
+            "UnityCRC": 1222976058,
+            "FileHash": "5ff337c061ff206bfc4f9f7ca5e0d5f0",
+            "FileCRC": 1935313160,
+            "FileSize": 216854,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6031,10 +6031,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_28_port_4.bundle",
-            "UnityCRC": 2396226031,
-            "FileHash": "54cb0fd25387e094be358cfe2b3460ac",
-            "FileCRC": 523735248,
-            "FileSize": 227701,
+            "UnityCRC": 2757141544,
+            "FileHash": "9c331f8873439ad4e7c07af04236ad55",
+            "FileCRC": 713493064,
+            "FileSize": 227700,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6106,10 +6106,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_29_waterpark_1.bundle",
-            "UnityCRC": 1174168373,
-            "FileHash": "091f4e7bd4c51def2513e38df72815ac",
-            "FileCRC": 3593164391,
-            "FileSize": 251813,
+            "UnityCRC": 1226472655,
+            "FileHash": "484bdc3751b15d67609db29075547fb8",
+            "FileCRC": 1172956655,
+            "FileSize": 251820,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6180,10 +6180,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_30_waterpark_2.bundle",
-            "UnityCRC": 2597030112,
-            "FileHash": "4aa08287d443d8ea6f635afed77ba63a",
-            "FileCRC": 3697128624,
-            "FileSize": 243284,
+            "UnityCRC": 3514111548,
+            "FileHash": "cb781ec62bb3a79ca537a5b60148d699",
+            "FileCRC": 2043254423,
+            "FileSize": 243292,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6255,10 +6255,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_31_waterpark_3.bundle",
-            "UnityCRC": 2854180511,
-            "FileHash": "95000264600f9d8d0cb562b7d17d778f",
-            "FileCRC": 194104666,
-            "FileSize": 237165,
+            "UnityCRC": 781963684,
+            "FileHash": "5a1a3562d12209e307dad8f620486729",
+            "FileCRC": 1766050832,
+            "FileSize": 237173,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6322,10 +6322,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_32_waterpark_4.bundle",
-            "UnityCRC": 3869895820,
-            "FileHash": "aac0ddfea2fecfd7cfe3d30435606971",
-            "FileCRC": 38913389,
-            "FileSize": 272606,
+            "UnityCRC": 2325667420,
+            "FileHash": "fb275f875e3e82e40ced26c3f6a42175",
+            "FileCRC": 1512957474,
+            "FileSize": 272611,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6548,10 +6548,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_35_spacestation_3.bundle",
-            "UnityCRC": 2292099638,
-            "FileHash": "bd5d1ed5615055aa7a8c22f3a15cdbcc",
-            "FileCRC": 585226649,
-            "FileSize": 187978,
+            "UnityCRC": 1558517656,
+            "FileHash": "6501c2225987be11602e931b655fdd71",
+            "FileCRC": 2531944245,
+            "FileSize": 187985,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6619,10 +6619,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_36_spacestation_4.bundle",
-            "UnityCRC": 468245032,
-            "FileHash": "c16c1a79fe0da6d24a78404791a35f76",
-            "FileCRC": 1499069078,
-            "FileSize": 224262,
+            "UnityCRC": 734783139,
+            "FileHash": "940a71b4e098f94520faed4a77e2239c",
+            "FileCRC": 3272800051,
+            "FileSize": 224261,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -6694,10 +6694,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_37_chinagreatwall_1.bundle",
-            "UnityCRC": 3553966252,
-            "FileHash": "68d9bd2ef9a9b68214d7fefdd445e1aa",
-            "FileCRC": 2339164544,
-            "FileSize": 214111,
+            "UnityCRC": 187609931,
+            "FileHash": "ce566edd6b30e80afde808727f03a4ac",
+            "FileCRC": 2641787668,
+            "FileSize": 214109,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -7074,10 +7074,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_hell_boss.bundle",
-            "UnityCRC": 1576641659,
-            "FileHash": "e153a19c60e46f2c692130d59f8f76d6",
-            "FileCRC": 390900334,
-            "FileSize": 188057,
+            "UnityCRC": 1889397835,
+            "FileHash": "989ca5c0db74313a38b075b9152e50fb",
+            "FileCRC": 2134119237,
+            "FileSize": 188065,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -7756,10 +7756,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui.bundle",
-            "UnityCRC": 310622352,
-            "FileHash": "f9049274148a697ebfaeb2da5945b146",
-            "FileCRC": 445976506,
-            "FileSize": 709068,
+            "UnityCRC": 3224414051,
+            "FileHash": "b1d3e27c30f6d21d84cbcdeb5cb5c7b4",
+            "FileCRC": 430888887,
+            "FileSize": 709067,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -7768,10 +7768,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "UnityCRC": 3034709115,
-            "FileHash": "56aae399720c87c0b8acc272ed647331",
-            "FileCRC": 4170185451,
-            "FileSize": 186945,
+            "UnityCRC": 1251138962,
+            "FileHash": "e0ac0674d8fe5698e435e8c60a6356f1",
+            "FileCRC": 687299409,
+            "FileSize": 189115,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -7824,9 +7824,9 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_host_ui.bundle",
-            "UnityCRC": 2760690245,
-            "FileHash": "627de5c441cd3de028adddeed1d045d0",
-            "FileCRC": 3410144639,
+            "UnityCRC": 3443537480,
+            "FileHash": "5a3b8200a1a2dce9f29fb39232e86e7d",
+            "FileCRC": 3697985983,
             "FileSize": 1726,
             "Encrypted": false,
             "Tags": [],
@@ -7869,10 +7869,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_amusementpark.bundle",
-            "UnityCRC": 2963315493,
-            "FileHash": "d0e1f47dbfb1026258cc7b326d2120e9",
-            "FileCRC": 403063435,
-            "FileSize": 1080534,
+            "UnityCRC": 360708862,
+            "FileHash": "bcac7184d9c2663001898fa8bb357f37",
+            "FileCRC": 4056814812,
+            "FileSize": 1080535,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -8294,10 +8294,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_items_prefabs.bundle",
-            "UnityCRC": 3519953116,
-            "FileHash": "9823f04126d35d5d3f0eab8bcebbc5c6",
-            "FileCRC": 1754673576,
-            "FileSize": 59818,
+            "UnityCRC": 296239714,
+            "FileHash": "d83a0695f693565a8f42b5281e8560a3",
+            "FileCRC": 735074945,
+            "FileSize": 59815,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -10091,10 +10091,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_obj_hell_boss.bundle",
-            "UnityCRC": 3152553826,
-            "FileHash": "3093c50450d9a1938b89ce6512b9d39e",
-            "FileCRC": 1493149482,
-            "FileSize": 41006,
+            "UnityCRC": 978747135,
+            "FileHash": "1e2d97f9de6ee593172e501574229916",
+            "FileCRC": 3397085466,
+            "FileSize": 41012,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -10721,10 +10721,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_racemaster_map_3dmodels_items_prefabs.bundle",
-            "UnityCRC": 1212315087,
-            "FileHash": "329c1a6cb650e12eb8481e78710abaae",
-            "FileCRC": 1323666933,
-            "FileSize": 12962,
+            "UnityCRC": 4059280969,
+            "FileHash": "25c2ebf308456b83414937de7e7123f2",
+            "FileCRC": 1439274658,
+            "FileSize": 12963,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
