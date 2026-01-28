@@ -10,7 +10,7 @@
     "BuildPipeline": "CustomBuildPipeline",
     "PackageName": "HostPackage",
     "PackageVersion": "v1.0.0",
-    "PackageNote": "1/27/2026 3:34:29 PM",
+    "PackageNote": "1/28/2026 10:20:18 AM",
     "AssetList": [
         {
             "Address": "BoosterOfferNOZ",
@@ -4020,9 +4020,9 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_dlc_env_upgrade.bundle",
-            "UnityCRC": 4290208283,
-            "FileHash": "4a5a80d2a1cd9c18e457a6f0ab8bec05",
-            "FileCRC": 2447582991,
+            "UnityCRC": 2997227654,
+            "FileHash": "87ffed40c19ff1bfb1052d5a90fb24ab",
+            "FileCRC": 1769693315,
             "FileSize": 41886,
             "Encrypted": false,
             "Tags": [],
@@ -9495,20 +9495,20 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_tracks_tracktextures_spit1.bundle",
-            "UnityCRC": 3426218982,
-            "FileHash": "2ed3790c25a29d191c813e1c173e8cdd",
-            "FileCRC": 3156383466,
-            "FileSize": 2802898,
+            "UnityCRC": 1155650335,
+            "FileHash": "a1325f2662aa67a728d91117257d79df",
+            "FileCRC": 303397690,
+            "FileSize": 2409377,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_3dmodels_tracks_tracktextures_spit2.bundle",
-            "UnityCRC": 2802963100,
-            "FileHash": "c89a5abdb5435e3cb4f85d678c00cf17",
-            "FileCRC": 2607398862,
-            "FileSize": 2849893,
+            "UnityCRC": 759415503,
+            "FileHash": "64688aa5f7ef99adaca2db04249e7db2",
+            "FileCRC": 2969426510,
+            "FileSize": 2431965,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -10153,10 +10153,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_maps_text2.bundle",
-            "UnityCRC": 1761594113,
-            "FileHash": "c039ea0c2276f8fd0f1b9ac7fd1d18dd",
-            "FileCRC": 3887386072,
-            "FileSize": 2568953,
+            "UnityCRC": 217212503,
+            "FileHash": "38bbfe1f23949b588e9f09fccce41675",
+            "FileCRC": 502567634,
+            "FileSize": 2544930,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -10933,10 +10933,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_res_racemaster_map_3dmodels_tracks_tracktextures.bundle",
-            "UnityCRC": 831734033,
-            "FileHash": "5bb5414f839a38b244f155e832057793",
-            "FileCRC": 744617667,
-            "FileSize": 780937,
+            "UnityCRC": 76751022,
+            "FileHash": "f7187e342d397b28c6687fcf7ad52314",
+            "FileCRC": 711204138,
+            "FileSize": 755925,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
