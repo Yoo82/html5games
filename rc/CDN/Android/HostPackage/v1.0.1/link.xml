@@ -3,6 +3,7 @@
     <type fullname="_Game.CarTier" preserve="all" />
     <type fullname="_Game.Scripts.Settings.VehiclePreset" preserve="all" />
     <type fullname="ActivatorTrigger" preserve="all" />
+    <type fullname="AudioSettings" preserve="all" />
     <type fullname="AutoRorate" preserve="all" />
     <type fullname="BoosterVisualBuilder" preserve="all" />
     <type fullname="CarBody" preserve="all" />
@@ -32,7 +33,6 @@
     <type fullname="PopupBossFightStart" preserve="all" />
     <type fullname="PopupCarOffers" preserve="all" />
     <type fullname="PopupCarUpgrade" preserve="all" />
-    <type fullname="PopupCheat" preserve="all" />
     <type fullname="PopupChestOffers" preserve="all" />
     <type fullname="PopupCountDown" preserve="all" />
     <type fullname="PopupGarage" preserve="all" />
@@ -44,7 +44,6 @@
     <type fullname="RespawnCheckPoint" preserve="all" />
     <type fullname="Sample.Settings.AtlasSettings" preserve="all" />
     <type fullname="TurnOnOffObject" preserve="all" />
-    <type fullname="TweenAlpha" preserve="all" />
     <type fullname="TweenPosition" preserve="all" />
     <type fullname="TweenRotation" preserve="all" />
     <type fullname="TweenScale" preserve="all" />
@@ -72,6 +71,9 @@
     <type fullname="UIResourcesBar" preserve="all" />
     <type fullname="UIRewardItems" preserve="all" />
     <type fullname="UIStarGrid" preserve="all" />
+    <type fullname="UITweenAlpha" preserve="all" />
+    <type fullname="AudioSettings/Music" preserve="nothing" serialized="true" />
+    <type fullname="AudioSettings/Sound" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CartoonFX.CFXR_Effect" preserve="all" />
@@ -98,25 +100,13 @@
   <assembly fullname="GmG.Settings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="GmG.Settings.HostGlobalSettings" preserve="all" />
   </assembly>
-  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
-    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
-    <type fullname="TMPro.TMP_InputField" preserve="all" />
-    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+  <assembly fullname="MeshBakerCore, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MB3_MeshBaker" preserve="all" />
+    <type fullname="DigitalOpus.MB.Core.MB3_MeshCombinerSingle" preserve="nothing" serialized="true" />
+    <type fullname="DigitalOpus.MB.Core.MB3_MeshCombinerSingle/MB_DynamicGameObject" preserve="nothing" serialized="true" />
+    <type fullname="DigitalOpus.MB.Core.MB3_MeshCombinerSingle/SerializableIntArray" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
     <type fullname="UnityEngine.Avatar" preserve="all" />
@@ -141,6 +131,7 @@
     <type fullname="UnityEngine.ReflectionProbe" preserve="all" />
     <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.ShaderVariantCollection" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
@@ -176,11 +167,9 @@
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
-    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.Outline" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
-    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Shadow" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
@@ -211,14 +200,5 @@
   </assembly>
   <assembly fullname="GmG.SmartRef">
     <type fullname="GmG.SmartRef.SmartReference`1" preserve="nothing" serialized="true" />
-  </assembly>
-  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
-    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
   </assembly>
 </linker>

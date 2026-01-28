@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "6000.0.64f1",
-        "BuildDate": "1/28/2026 10:21:15 AM",
-        "BuildSeconds": 56,
+        "BuildDate": "1/28/2026 11:10:23 AM",
+        "BuildSeconds": 51,
         "BuildTarget": 13,
         "BuildPipeline": "CustomBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "HostPackage",
         "BuildPackageVersion": "v1.0.0",
-        "BuildPackageNote": "1/28/2026 10:20:18 AM",
+        "BuildPackageNote": "1/28/2026 11:09:30 AM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "hostpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 2520,
-        "MainAssetTotalCount": 134,
-        "AllBundleTotalCount": 293,
-        "AllBundleTotalSize": 95952132,
+        "AssetFileTotalCount": 2515,
+        "MainAssetTotalCount": 133,
+        "AllBundleTotalCount": 291,
+        "AllBundleTotalSize": 95317232,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -46027,7 +46027,7 @@
             "AssetGUID": "61d2935858b04c845bec44bc25c693fa",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/UI/BoosterRenderTexture.renderTexture",
@@ -46126,7 +46126,7 @@
             "AssetGUID": "94c510d43cf4bb5488de631733141812",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p8 add.mat",
@@ -46257,7 +46257,7 @@
             "AssetGUID": "012248d91ea7bec41a58bf10b1eb68d1",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46320,7 +46320,7 @@
             "AssetGUID": "02a9f241561e6d643ae7233622ed749d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -46412,7 +46412,7 @@
             "AssetGUID": "5bf746699411ed6439e4c217dff1c896",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -46514,7 +46514,7 @@
             "AssetGUID": "45920fc3ece4db84fb0ad8150d12372d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr proc glow soft p4 add nosp.mat",
@@ -46669,57 +46669,12 @@
             ]
         },
         {
-            "Address": "popup.cheat",
-            "AssetPath": "Assets/_Game/Host/UI/Popups/popup.cheat.prefab",
-            "AssetGUID": "c95314e12457b5a468f1633ac31105e5",
-            "AssetTags": [],
-            "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
-            "DependAssets": [
-                {
-                    "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
-                    "AssetGUID": "4e5fe8fbda1751e4bad1214e448e11ff"
-                },
-                {
-                    "AssetPath": "Assets/_Game/Res/Unity UI Samples/Textures and Sprites/MyDreamCity/BG_item2.png",
-                    "AssetGUID": "95f67a9a77411bf4fa82eef78260354b"
-                },
-                {
-                    "AssetPath": "Assets/_Game/Res/Unity UI Samples/Textures and Sprites/MyDreamCity/Bg_Staff_820.png",
-                    "AssetGUID": "56a06d7d8d5f62d4b899e6b2117464db"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
-                    "AssetGUID": "e3265ab4bf004d28a9537516768c1c75"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                    "AssetGUID": "2e498d1c8094910479dc3e1b768306a4"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                    "AssetGUID": "8f586378b4e144a9851e7b34d9b748ee"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                    "AssetGUID": "fe393ace9b354375a9cb14cdbbc28be4"
-                }
-            ],
-            "DependBundles": [
-                "hostpackage_share_assets__game_res_racemaster_ui_font.bundle",
-                "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
-                "hostpackage_share_assets_textmesh_pro_fonts.bundle",
-                "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
-                "hostpackage_unityshaders.bundle"
-            ]
-        },
-        {
             "Address": "popup.chest.offers",
             "AssetPath": "Assets/_Game/Host/UI/Popups/popup.chest.offers.prefab",
             "AssetGUID": "933c93ad10d3930499fbdd79e90ceae5",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Host/UI/Icons/icon_Paint_2.png",
@@ -46932,7 +46887,7 @@
             "AssetGUID": "932315dede66ac249acd988d1535cbf0",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/SFX/AudioClip/countdown.wav",
@@ -46970,7 +46925,7 @@
             "AssetGUID": "674d2692f6ad76a458126a4d25d11952",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47087,7 +47042,7 @@
             "AssetGUID": "4759ef531bb33b546b1c3ab7abb4ab5d",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/Font/Bungee-Regular.otf",
@@ -47182,7 +47137,7 @@
             "AssetGUID": "5034d17effdc51d4597832d38f718505",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -47220,7 +47175,7 @@
             "AssetGUID": "9234cf1e232b5bc46bc746cdb0519c79",
             "AssetTags": [],
             "MainBundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "MainBundleSize": 189621,
+            "MainBundleSize": 169385,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/RaceMaster/UI/BG_Label/Label_Upgrade_2.png",
@@ -47268,7 +47223,7 @@
             "AssetGUID": "5d20f8d9533d4174e8ba904d26f1bf31",
             "AssetTags": [],
             "MainBundleName": "hostpackage_unityshaders.bundle",
-            "MainBundleSize": 1565127,
+            "MainBundleSize": 1551861,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/_Game/Res/UI/Particles/Materials/Gradient_greyscale.PNG",
@@ -47785,9 +47740,9 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_levels_03_amusementpark_3.bundle",
-            "FileName": "89a5bd659621217ba22ab83058a3aeee.bundle",
-            "FileHash": "89a5bd659621217ba22ab83058a3aeee",
-            "FileCRC": 3095960650,
+            "FileName": "ce18b8f4cb31e00024fed55c37defa47.bundle",
+            "FileHash": "ce18b8f4cb31e00024fed55c37defa47",
+            "FileCRC": 2322163721,
             "FileSize": 227320,
             "Encrypted": false,
             "Tags": [],
@@ -52005,10 +51960,10 @@
         },
         {
             "BundleName": "hostpackage_assets__game_host_ui_popups.bundle",
-            "FileName": "6ded86784b41d6d82c568cebb4384c6b.bundle",
-            "FileHash": "6ded86784b41d6d82c568cebb4384c6b",
-            "FileCRC": 3911593889,
-            "FileSize": 189621,
+            "FileName": "1cf9dc1956b6512b0f85912dad69931c.bundle",
+            "FileHash": "1cf9dc1956b6512b0f85912dad69931c",
+            "FileCRC": 803489850,
+            "FileSize": 169385,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -52034,8 +51989,6 @@
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_materials.bundle",
                 "hostpackage_share_assets__game_res_unity_ui_samples_textures_and_sprites_mydreamcity.bundle",
-                "hostpackage_share_assets_textmesh_pro_fonts.bundle",
-                "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
                 "hostpackage_unityshaders.bundle"
             ],
             "ReferenceBundles": [],
@@ -52063,10 +52016,6 @@
                 {
                     "AssetPath": "Assets/_Game/Host/UI/Popups/popup.car.upgrade.prefab",
                     "AssetGUID": "45920fc3ece4db84fb0ad8150d12372d"
-                },
-                {
-                    "AssetPath": "Assets/_Game/Host/UI/Popups/popup.cheat.prefab",
-                    "AssetGUID": "c95314e12457b5a468f1633ac31105e5"
                 },
                 {
                     "AssetPath": "Assets/_Game/Host/UI/Popups/popup.chest.offers.prefab",
@@ -52205,10 +52154,10 @@
         },
         {
             "BundleName": "hostpackage_share_assets__game_host_settings.bundle",
-            "FileName": "94530d1ece32286faa2f62a0d2bd8098.bundle",
-            "FileHash": "94530d1ece32286faa2f62a0d2bd8098",
-            "FileCRC": 3174224910,
-            "FileSize": 9541,
+            "FileName": "f0e43bed04dee691b9909563a89caaeb.bundle",
+            "FileHash": "f0e43bed04dee691b9909563a89caaeb",
+            "FileCRC": 3976630777,
+            "FileSize": 9473,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -70782,57 +70731,11 @@
             ]
         },
         {
-            "BundleName": "hostpackage_share_assets_textmesh_pro_fonts.bundle",
-            "FileName": "3e4bb7304f6500e4e29a6b0c0449f4a8.bundle",
-            "FileHash": "3e4bb7304f6500e4e29a6b0c0449f4a8",
-            "FileCRC": 3698437179,
-            "FileSize": 227216,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "ReferenceBundles": [
-                "hostpackage_assets__game_host_ui_popups.bundle",
-                "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle"
-            ],
-            "BundleContents": [
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
-                    "AssetGUID": "e3265ab4bf004d28a9537516768c1c75"
-                }
-            ]
-        },
-        {
-            "BundleName": "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
-            "FileName": "113a4009643aa0ded312c8b34b630f1b.bundle",
-            "FileHash": "113a4009643aa0ded312c8b34b630f1b",
-            "FileCRC": 1441991467,
-            "FileSize": 374114,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [
-                "hostpackage_share_assets_textmesh_pro_fonts.bundle",
-                "hostpackage_unityshaders.bundle"
-            ],
-            "ReferenceBundles": [
-                "hostpackage_assets__game_host_ui_popups.bundle"
-            ],
-            "BundleContents": [
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                    "AssetGUID": "2e498d1c8094910479dc3e1b768306a4"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                    "AssetGUID": "8f586378b4e144a9851e7b34d9b748ee"
-                }
-            ]
-        },
-        {
             "BundleName": "hostpackage_unityshaders.bundle",
-            "FileName": "9914b8c8bf8ed29612e9fe8e4577b50a.bundle",
-            "FileHash": "9914b8c8bf8ed29612e9fe8e4577b50a",
-            "FileCRC": 3437583033,
-            "FileSize": 1565127,
+            "FileName": "8fd4d4b44703ee5814b880772f35c76d.bundle",
+            "FileHash": "8fd4d4b44703ee5814b880772f35c76d",
+            "FileCRC": 1733028913,
+            "FileSize": 1551861,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -71076,8 +70979,7 @@
                 "hostpackage_share_assets__game_res_ui_materials.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_materials.bundle",
                 "hostpackage_share_assets__game_res_ui_particles_prefabs.bundle",
-                "hostpackage_share_assets__game_res_unity_ui_samples_materials.bundle",
-                "hostpackage_share_assets_textmesh_pro_resources_fonts_&_materials.bundle"
+                "hostpackage_share_assets__game_res_unity_ui_samples_materials.bundle"
             ],
             "BundleContents": [
                 {
@@ -71183,10 +71085,6 @@
                 {
                     "AssetPath": "Assets/_Game/Res/Unity UI Samples/Materials/GrayScale.shader",
                     "AssetGUID": "aec0b194c66005c43b4def4671707459"
-                },
-                {
-                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                    "AssetGUID": "fe393ace9b354375a9cb14cdbbc28be4"
                 }
             ]
         }
